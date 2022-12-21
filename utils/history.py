@@ -4,7 +4,7 @@ import csv
 
 class History():
     def __init__(self) -> None:
-        self.FIELDNAMES = ['GCalUID', 'NotionPageID', 'LastUpdate']
+        self.FIELDNAMES = ['GCalUID', 'NotionPageID', 'LastModify']
         self.FILE_PATH = os.path.join('.', 'history.csv')
         if not os.path.isfile(self.FILE_PATH):
             with open(self.FILE_PATH, 'w', encoding='utf-8', newline='') as f:
@@ -29,6 +29,11 @@ class History():
 
         # Delete Backup
         os.remove(self.FILE_PATH+".bak")
+        return
+
+    def add(self, info: dict):
+        self.history.append(info)
+        self._save_history()
         return
 
     def is_gcal_uid_in_history(self, gcal_uid) -> bool:
