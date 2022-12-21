@@ -39,7 +39,7 @@ class History():
     def modify(self, info: dict):
         for history in self.history:
             if history.get('GCalUID') == info.get('GCalUID'):
-                history = info
+                history.update(info)
                 break
 
         self._save_history()
