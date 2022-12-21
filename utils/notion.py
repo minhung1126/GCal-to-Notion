@@ -1,7 +1,5 @@
 import requests
 
-from pprint import pprint
-
 
 class NotionElement():
     def texts(texts: str or list) -> list[dict]:
