@@ -5,7 +5,6 @@ class GCalEvent():
     def __init__(self, info: dict, tz: str) -> None:
         self.info = info
         self.tz = tz
-        print(info)
 
 
 def read_gcal(url) -> GCalEvent:
