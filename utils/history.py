@@ -45,6 +45,12 @@ class History():
         self._save_history()
         return
 
+    def all_gcal_uids(self):
+        return [
+            history.get('GCalUID')
+            for history in self.history
+        ]
+
     def is_gcal_uid_in_history(self, gcal_uid) -> bool:
         return bool(list(filter(
             lambda x: gcal_uid == x.get('GCalUID', ''),
