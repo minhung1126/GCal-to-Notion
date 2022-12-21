@@ -7,7 +7,7 @@ class GCalEvent():
         self.tz = tz
 
 
-def read_gcal(url) -> GCalEvent:
+def read_gcal(url) -> list[GCalEvent]:
     rs = requests.Session()
 
     resp = rs.get(url)
@@ -31,6 +31,8 @@ def read_gcal(url) -> GCalEvent:
         }
         events.append(GCalEvent(info, tz))
         lines = lines[end_index+1:]
+
+    return events
 
 
 if __name__ == "__main__":
