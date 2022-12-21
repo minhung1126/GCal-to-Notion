@@ -210,6 +210,8 @@ class Notion():
             }
             resp = rs.patch(block_url, json=new_block_content)
 
+        return
+
     def delete_by_uid(self, uid) -> str:
         rs = self.rs
 
