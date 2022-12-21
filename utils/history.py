@@ -36,6 +36,15 @@ class History():
         self._save_history()
         return
 
+    def modify(self, info: dict):
+        for history in self.history:
+            if history.get('GCalUID') == info.get('GCalUID'):
+                history = info
+                break
+
+        self._save_history()
+        return
+
     def is_gcal_uid_in_history(self, gcal_uid) -> bool:
         return bool(list(filter(
             lambda x: gcal_uid == x.get('GCalUID', ''),
