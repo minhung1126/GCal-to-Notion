@@ -26,7 +26,7 @@ def read_gcal(url) -> list[GCalEvent]:
         start_index = lines.index("BEGIN:VEVENT")
         end_index = lines.index("END:VEVENT")
         info = {
-            line.split(':')[0]: line.split(':')[1]
+            line.split(':')[0].split(';')[0]: line.split(':')[1]
             for line in lines[start_index+1:end_index]
         }
         events.append(GCalEvent(info, tz))

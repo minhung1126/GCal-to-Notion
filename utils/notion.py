@@ -109,9 +109,7 @@ class Notion():
             },
             'properties': {
                 'Name': {
-                    'type': 'title',
                     'title': NotionElement.texts(name)
-
                 },
                 'Due': NotionElement.date('-'.join([due[0:4], due[4:6], due[6:8]])),
                 'Last Modify': NotionElement.date(last_modify),

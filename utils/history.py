@@ -45,6 +45,15 @@ class History():
         self._save_history()
         return
 
+    def delete_by_uid(self, uid):
+        self.history = list(filter(
+            lambda x: x['GCalUID'] != uid,
+            self.history
+        ))
+
+        self._save_history()
+        return
+
     def all_gcal_uids(self):
         return [
             history.get('GCalUID')
