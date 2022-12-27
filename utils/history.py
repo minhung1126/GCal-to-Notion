@@ -75,7 +75,8 @@ class History():
     def search_by_gcal_uid(self, gcal_uid) -> dict:
         if self.is_gcal_uid_in_history(gcal_uid):
             return list(filter(
-                lambda x: gcal_uid == x.get('GCalUID', '')
+                lambda x: gcal_uid == x.get('GCalUID', ''),
+                self.history
             ))[0]
         else:
             return {}

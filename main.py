@@ -36,9 +36,10 @@ def main():
                 'NotionPageID': notion_page_id,
                 'LastModify': last_modify,
             })
-        elif datetime.fromisoformat(last_modify) > \
-            datetime.fromisoformat(
-                history.search_by_gcal_uid(gcal_uid).get('LastModify')
+        elif datetime.strptime(last_modify, "%Y%m%dT%H%M%SZ") > \
+            datetime.strptime(
+                history.search_by_gcal_uid(gcal_uid).get('LastModify'),
+                "%Y%m%dT%H%M%SZ"
         ):
             notion.modify_by_uid(
                 uid=gcal_uid,
@@ -53,13 +54,13 @@ def main():
             })
     # Delete events that is delete on gcal
     gcal_event_uids = set([
-        event.info.get('GCalUID') for event in events
+        event.info.get('UID') for event in events
     ])
     uids_in_history = set(history.all_gcal_uids())
 
     for to_delete_uid in uids_in_history-gcal_event_uids:
         notion.delete_by_uid(to_delete_uid)
-        history.delete_by_uid(gcal_uid)
+        history.delete_by_uid(to_delete_uid)
 
     return
 

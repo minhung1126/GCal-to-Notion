@@ -23,6 +23,12 @@ class NotionElement():
             } for text in texts
         ]
 
+    def title(title):
+        return {
+            'type': 'title',
+            'title': NotionElement.texts(title)
+        }
+
     def divider() -> dict:
         """Generate divider structure for Notion
         It is a kind of block
@@ -37,10 +43,11 @@ class NotionElement():
 
     def date(date) -> dict:
         return {
+            'type': 'date',
             'date': {
-                'start': date,
+                    'start': date,
             }
-        },
+        }
 
 
 class Notion():
@@ -108,9 +115,7 @@ class Notion():
                 'database_id': self.DB_ID
             },
             'properties': {
-                'Name': {
-                    'title': NotionElement.texts(name)
-                },
+                'Name': NotionElement.title(name),
                 'Due': NotionElement.date('-'.join([due[0:4], due[4:6], due[6:8]])),
                 'Last Modify': NotionElement.date(last_modify),
                 'UID': {

@@ -22,11 +22,21 @@ def read_gcal(url) -> list[GCalEvent]:
         if "X-WR-TIMEZONE:" in line:
             tz = line.split(':')[1]
 
+    # If a blank is the first, then it should follow the former line
+    to_delete_line_idxs = []
+    for idx, line in enumerate(lines):
+        if line[0] == " ":
+            lines[idx-1] += line[1:]
+            to_delete_line_idxs.append(idx)
+
+    for to_delete_line in to_delete_line_idxs[::-1]:
+        del lines[to_delete_line]
+
     while "BEGIN:VEVENT" in lines:
         start_index = lines.index("BEGIN:VEVENT")
         end_index = lines.index("END:VEVENT")
         info = {
-            line.split(':')[0].split(';')[0]: line.split(':')[1]
+            line.split(':')[0].split(';')[0]: ":".join(line.split(':')[1:])
             for line in lines[start_index+1:end_index]
         }
         events.append(GCalEvent(info, tz))
