@@ -38,14 +38,14 @@ class NotionElement():
         """
         return {
             'type': 'divider',
-                    'divider': {}
+            'divider': {}
         }
 
     def date(date) -> dict:
         return {
             'type': 'date',
             'date': {
-                    'start': date,
+                'start': date,
             }
         }
 
@@ -66,7 +66,7 @@ class Notion():
             "Do NOT use or delete this block.",
         ])
 
-    def search_by_uid(self, uid) -> str:
+    def search_by_gcal_uid(self, uid) -> str:
         rs = self.rs
         url = f"https://api.notion.com/v1/databases/{self.DB_ID}/query"
 
@@ -142,7 +142,7 @@ class Notion():
 
         return resp.json().get('id')
 
-    def modify_by_uid(
+    def modify_by_gcal_uid(
             self,
             uid: str = "",
             name: str = "",
@@ -150,7 +150,7 @@ class Notion():
             last_modify: str = "",
             description: str = "") -> str:
         rs = self.rs
-        page_id = self.search_by_uid(uid)
+        page_id = self.search_by_gcal_uid(uid)
         if page_id == "-1":
             # ! ERROR
             return "-1"
@@ -215,10 +215,10 @@ class Notion():
 
         return
 
-    def delete_by_uid(self, uid) -> str:
+    def delete_by_gcal_uid(self, uid) -> str:
         rs = self.rs
 
-        page_id = self.search_by_uid(uid)
+        page_id = self.search_by_gcal_uid(uid)
         url = f"https://api.notion.com/v1/pages/{page_id}"
 
         payload = {

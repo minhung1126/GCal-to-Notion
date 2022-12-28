@@ -35,7 +35,7 @@ def main():
                 history.search_by_gcal_uid(event.uid).get('LastModify'),
                 "%Y%m%dT%H%M%SZ"
         ):
-            notion.modify_by_uid(
+            notion.modify_by_gcal_uid(
                 uid=event.uid,
                 name=event.name,
                 due=event.due,
@@ -54,7 +54,7 @@ def main():
     uids_in_history = set(history.all_gcal_uids())
 
     for to_delete_uid in uids_in_history-gcal_event_uids:
-        notion.delete_by_uid(to_delete_uid)
+        notion.delete_by_gcal_uid(to_delete_uid)
         history.delete_by_uid(to_delete_uid)
 
     return
