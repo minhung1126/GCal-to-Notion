@@ -2,9 +2,14 @@ import requests
 
 
 class GCalEvent():
-    def __init__(self, info: dict, tz: str) -> None:
+    def __init__(self, info: dict) -> None:
         self.info = info
-        self.tz = tz
+
+        self.uid: str = info.get('UID')
+        self.name: str = info.get('SUMMARY')
+        self.due: str = info.get('DTSTART')
+        self.last_modify: str = info.get('LAST-MODIFIED')
+        self.description: str = info.get('DESCRIPTION')
 
 
 def read_gcal(url) -> list[GCalEvent]:
@@ -18,9 +23,9 @@ def read_gcal(url) -> list[GCalEvent]:
     events = []
     lines = resp.text.splitlines()
 
-    for line in lines:
-        if "X-WR-TIMEZONE:" in line:
-            tz = line.split(':')[1]
+    # for line in lines:
+    #     if "X-WR-TIMEZONE:" in line:
+    #         tz = line.split(':')[1]
 
     # If a blank is the first, then it should follow the former line
     to_delete_line_idxs = []
@@ -39,7 +44,7 @@ def read_gcal(url) -> list[GCalEvent]:
             line.split(':')[0].split(';')[0]: ":".join(line.split(':')[1:])
             for line in lines[start_index+1:end_index]
         }
-        events.append(GCalEvent(info, tz))
+        events.append(GCalEvent(info))
         lines = lines[end_index+1:]
 
     return events

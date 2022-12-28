@@ -17,43 +17,39 @@ def main():
 
     # Add or Modify
     for event in events:
-        gcal_uid = event.info.get('UID')
-        name = event.info.get('SUMMARY')
-        due = event.info.get('DTSTART')
-        last_modify = event.info.get('LAST-MODIFIED')
-        description = event.info.get('DESCRIPTION')
-        if not history.is_gcal_uid_in_history(gcal_uid):
+        if not history.is_gcal_uid_in_history(event.uid):
             notion_page_id = notion.add(
-                uid=gcal_uid,
-                name=name,
-                due=due,
-                last_modify=last_modify,
-                description=description
+                uid=event.uid,
+                name=event.name,
+                due=event.due,
+                last_modify=event.last_modify,
+                description=event.description
             )
             history.add({
-                'GCalUID': gcal_uid,
+                'GCalUID': event.uid,
                 'NotionPageID': notion_page_id,
-                'LastModify': last_modify,
+                'LastModify': event.last_modify,
             })
-        elif datetime.strptime(last_modify, "%Y%m%dT%H%M%SZ") > \
+        elif datetime.strptime(event.last_modify, "%Y%m%dT%H%M%SZ") > \
             datetime.strptime(
-                history.search_by_gcal_uid(gcal_uid).get('LastModify'),
+                history.search_by_gcal_uid(event.uid).get('LastModify'),
                 "%Y%m%dT%H%M%SZ"
         ):
             notion.modify_by_uid(
-                uid=gcal_uid,
-                name=name,
-                due=due,
-                last_modify=last_modify,
-                description=description
+                uid=event.uid,
+                name=event.name,
+                due=event.due,
+                last_modify=event.last_modify,
+                description=event.description
             )
             history.modify({
-                'GCalUID': gcal_uid,
-                'LastModify': last_modify,
+                'GCalUID': event.uid,
+                'LastModify': event.last_modify,
             })
-    # Delete events that is delete on gcal
+
+    # Delete events that is deleted on gcal
     gcal_event_uids = set([
-        event.info.get('UID') for event in events
+        event.uid for event in events
     ])
     uids_in_history = set(history.all_gcal_uids())
 
