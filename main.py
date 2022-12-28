@@ -2,7 +2,6 @@ import sys
 from datetime import datetime
 
 from utils import gcal
-from utils.gcal import GCalEvent
 from utils.notion import Notion
 from utils.history import History
 
