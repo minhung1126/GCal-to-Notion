@@ -44,8 +44,8 @@ jobs:
     
     - name: Commit files
       run: |
-        git config --local user.email "auto@gmail.com"
-        git config --local user.name "Auto"
+        git config --local user.email "github_actions[bot]@noreply.mail.github.com"
+        git config --local user.name "github_actions[bot]"
         git commit --allow-empty -m "Change History.csv" -a
     - name: Push
       uses: ad-m/github-push-action@master
