@@ -10,6 +10,7 @@ on:
     types: [ "started" ]
   schedule:
     - cron: "*/15 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: read
