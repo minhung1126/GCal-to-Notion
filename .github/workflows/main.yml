@@ -21,8 +21,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-      with: 
-        token: ${{ secrets.GH_TOKEN }}
+      # with: 
+      #   token: ${{ secrets.GH_TOKEN }}
         
     - name: Set up Python 3.9
       uses: actions/setup-python@v3
@@ -49,7 +49,9 @@ jobs:
         git commit --allow-empty -m "Change History.csv" -a
     - name: Push
       uses: ad-m/github-push-action@master
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
-        github_token: ${{ secrets.GH_TOKEN }}
+        github_token: $GITHUB_TOKEN
         branch: main
         force_with_lease: true
