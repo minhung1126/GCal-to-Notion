@@ -46,7 +46,6 @@ jobs:
         git config --local user.name "github-actions"
         git add .
         git commit -m "Change History.csv" -a
-        git push -f
     - name: Push
       uses: ad-m/github-push-action@master
       with:
