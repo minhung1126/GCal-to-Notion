@@ -47,6 +47,7 @@ jobs:
       run: |
         git config --local user.email "github_actions[bot]@noreply.mail.github.com"
         git config --local user.name "github_actions[bot]"
+        git add .
         git commit --allow-empty -m "Change History.csv" -a
     - name: Push
       uses: ad-m/github-push-action@master
