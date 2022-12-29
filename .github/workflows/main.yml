@@ -45,7 +45,7 @@ jobs:
         git add .
         git commit -m "Change History.csv" -a
         git push -f
-- name: Push
+    - name: Push
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GH_TOKEN }}
