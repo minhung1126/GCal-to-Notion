@@ -11,6 +11,9 @@ class GCalEvent():
         self.last_modify: str = info.get('LAST-MODIFIED')
         self.description: str = info.get('DESCRIPTION')
 
+    def __str__(self):
+        return f"{self.name}({self.uid})"
+
 
 def read_gcal(url) -> list[GCalEvent]:
     rs = requests.Session()
