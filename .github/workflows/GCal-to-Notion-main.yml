@@ -6,8 +6,8 @@ name: GCal-to-Notion
 on:
   # push:
   #   branches: [ "main" ]
-  watch:
-    types: [ "started" ]
+  # watch:
+    # types: [ "started" ]
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
