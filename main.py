@@ -5,7 +5,7 @@ import logging
 from utils import gcal
 from utils.notion import Notion
 from utils.history import History
-"""TESTMESSAGE"""
+
 
 def set_logging():
     main_logger = logging.getLogger()
