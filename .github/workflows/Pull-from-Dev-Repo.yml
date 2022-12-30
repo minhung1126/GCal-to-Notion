@@ -17,7 +17,7 @@ jobs:
         env:
           github_token: ${{ secrets.GH_TOKEN }}
         run: |
-          git remote add dev-repo https://$github_token@github.com/minhung1126/GCal-to-Notion-dev
+          git remote add dev-repo https://github_actions[bot]:$github_token@github.com/minhung1126/GCal-to-Notion-dev
           git pull dev-repo main
       
       - name: Commit
