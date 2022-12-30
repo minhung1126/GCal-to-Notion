@@ -14,8 +14,10 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Pull from dev repo
+        env:
+          github_token: ${{ secrets.GH_TOKEN }}
         run: |
-          git pull dev-repo main
+          git pull https://github_actions[bot]:$github_token@github.com/minhung1126/GCal-to-Notion-dev main
       
       - name: Commit
         run: |
