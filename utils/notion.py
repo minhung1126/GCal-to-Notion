@@ -171,7 +171,7 @@ class Notion():
             page_properties['Name']['title'][0]['text']['content'] = name
             to_update_properties['Name'] = page_properties['Name']
         if due != "" and due != page_properties['Due']['date']['start']:
-            page_properties['Due']['date']['start'] = due
+            page_properties['Due']['date']['start'] = "-".join([due[0:4],due[4:6],due[6:8]])
             to_update_properties['Due'] = page_properties['Due']
         if last_modify != "" and last_modify != page_properties['Last Modify']['date']['start']:
             page_properties['Last Modify']['date']['start'] = last_modify
