@@ -6,7 +6,6 @@ class NotionElement():
         """Generate text structure for Notion.
         No format included.
 
-
         Args:
             texts (strorlist): content
 
@@ -23,15 +22,23 @@ class NotionElement():
             } for text in texts
         ]
 
-    def title(title):
+    def title(title) -> dict:
+        """Generate title for Notion.
+
+        Args:
+            title (str): the text of title
+
+        Returns:
+            dict: title structure
+        """
         return {
             'type': 'title',
             'title': NotionElement.texts(title)
         }
 
     def divider() -> dict:
-        """Generate divider structure for Notion
-        It is a kind of block
+        """Generate divider structure for Notion.
+        It is a kind of block.
 
         Returns:
             dict: Divider Structure
@@ -41,7 +48,15 @@ class NotionElement():
             'divider': {}
         }
 
-    def date(date) -> dict:
+    def date(date: str) -> dict:
+        """Generate the date structure for notion
+
+        Args:
+            date (str): the date, whether YYYY-MM-DD or isoformat
+
+        Returns:
+            dict: date structure
+        """
         return {
             'type': 'date',
             'date': {
@@ -51,6 +66,9 @@ class NotionElement():
 
 
 class Notion():
+    """A notion object, that can add a page or do something.
+    """
+
     def __init__(self, token: str, db_id: str) -> None:
         self.TOKEN = token
         self.DB_ID = db_id
@@ -66,7 +84,15 @@ class Notion():
             "Do NOT use or delete this block.",
         ])
 
-    def search_by_gcal_uid(self, uid) -> str:
+    def search_by_gcal_uid(self, uid: str) -> str:
+        """Search the NotionPageID through api, based on GCalUID.
+
+        Args:
+            uid (str): GCalUID
+
+        Returns:
+            str: NotionPageID
+        """
         rs = self.rs
         url = f"https://api.notion.com/v1/databases/{self.DB_ID}/query"
 
@@ -100,7 +126,18 @@ class Notion():
             due: str = "",
             last_modify: str = "",
             description: str = "") -> str:
+        """Create a new page in a database.
 
+        Args:
+            uid (str, optional): GCalUID. Defaults to "".
+            name (str, optional): SUMMARY in GCal. Defaults to "".
+            due (str, optional): DTSTART in GCal. Defaults to "".
+            last_modify (str, optional): LAST-MODIFY in GCal. Defaults to "".
+            description (str, optional): DESCRIPTION in GCal. Defaults to "".
+
+        Returns:
+            str: NotionPageID
+        """
         rs = self.rs
         url = "https://api.notion.com/v1/pages"
 
@@ -148,7 +185,17 @@ class Notion():
             name: str = "",
             due: str = "",
             last_modify: str = "",
-            description: str = "") -> str:
+            description: str = "") -> None:
+        """Modify page, base on GCalUID.
+        If remains blank, then that field won't change
+
+        Args:
+            uid (str, optional): GCalUID. Defaults to "".
+            name (str, optional): SUMMARY in GCal. Defaults to "".
+            due (str, optional): DTSTART in GCal. Defaults to "".
+            last_modify (str, optional): LAST-MODIFY in GCal. Defaults to "".
+            description (str, optional): DESCRIPTION in GCal. Defaults to "".
+        """
         rs = self.rs
         page_id = self.search_by_gcal_uid(uid)
         if page_id == "-1":
@@ -171,7 +218,8 @@ class Notion():
             page_properties['Name']['title'][0]['text']['content'] = name
             to_update_properties['Name'] = page_properties['Name']
         if due != "" and due != page_properties['Due']['date']['start']:
-            page_properties['Due']['date']['start'] = "-".join([due[0:4],due[4:6],due[6:8]])
+            page_properties['Due']['date']['start'] = "-".join(
+                [due[0:4], due[4:6], due[6:8]])
             to_update_properties['Due'] = page_properties['Due']
         if last_modify != "" and last_modify != page_properties['Last Modify']['date']['start']:
             page_properties['Last Modify']['date']['start'] = last_modify
@@ -215,7 +263,12 @@ class Notion():
 
         return
 
-    def delete_by_gcal_uid(self, uid) -> str:
+    def delete_by_gcal_uid(self, uid: str) -> None:
+        """Deleta page based on GCalUID
+
+        Args:
+            uid (str): GCalUID
+        """
         rs = self.rs
 
         page_id = self.search_by_gcal_uid(uid)

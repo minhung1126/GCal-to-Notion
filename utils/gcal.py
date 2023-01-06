@@ -2,7 +2,20 @@ import requests
 
 
 class GCalEvent():
+    """A Google-Calender (GCal) Object
+    """
+
     def __init__(self, info: dict) -> None:
+        """Create a GCalEvent
+
+        Args:
+            info (dict): including:
+                UID,
+                SUMMARY (as name, use for title),
+                DTSTART (as due, use for due date),
+                LAST-MODIFIED (as last_modify, use for version check),
+                DESCRIPTION (as description, use for page's first block content)
+        """
         self.info = info
 
         self.uid: str = info.get('UID')
@@ -15,7 +28,17 @@ class GCalEvent():
         return f"{self.name}({self.uid})"
 
 
-def read_gcal(url) -> list[GCalEvent]:
+def read_gcal(url: str) -> list[GCalEvent]:
+    """Get all events from GCal.
+    Requests the url first, then parse to generate info dict.
+    Create a GCalEvent object, and return them all in a list
+
+    Args:
+        url (str): url of the calender
+
+    Returns:
+        list[GCalEvent]: list of GCalEvent object
+    """
     rs = requests.Session()
 
     resp = rs.get(url)
@@ -44,7 +67,8 @@ def read_gcal(url) -> list[GCalEvent]:
         start_index = lines.index("BEGIN:VEVENT")
         end_index = lines.index("END:VEVENT")
         info = {
-            line.split(':')[0].split(';')[0]: ":".join(line.split(':')[1:]).replace('\\n','\n')
+            line.split(':')[0].split(';')[0]: ":".join(
+                line.split(':')[1:]).replace('\\n', '\n')
             for line in lines[start_index+1:end_index]
         }
         events.append(GCalEvent(info))
