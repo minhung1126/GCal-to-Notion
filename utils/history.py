@@ -74,7 +74,7 @@ class History():
         self._save_history()
         return
 
-    def delete_by_uid(self, uid: str):
+    def delete_by_gcal_uid(self, uid: str):
         """Delete the event info based on the GCalUID.
 
         Args:

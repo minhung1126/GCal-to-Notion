@@ -58,7 +58,7 @@ def main():
 
     for to_delete_uid in uids_in_history-gcal_event_uids:
         notion.delete_by_gcal_uid(to_delete_uid)
-        history.delete_by_uid(to_delete_uid)
+        history.delete_by_gcal_uid(to_delete_uid)
 
     return
 
