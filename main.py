@@ -21,7 +21,7 @@ def setup_logging():
         'Worklog.txt', 'a', encoding='utf-8'
     )
     file_hdlr.setFormatter(history_formatter)
-    file_hdlr(logging.DEBUG)
+    file_hdlr.setLevel(logging.DEBUG)
     logger.addHandler(file_hdlr)
 
     return
