@@ -276,3 +276,5 @@
 [2023-02-05 20:49:50] https://calendar.google.com:443 "GET /calendar/ical/316bf667df8529794f3689a18a99793f1857804a21b4ff0ef1f0ed0d3bb1c6e1%40group.calendar.google.com/private-ff01565c6ef3ac16767df47e9809d181/basic.ics HTTP/1.1" 200 None
 [2023-02-05 21:10:56] Starting new HTTPS connection (1): calendar.google.com:443
 [2023-02-05 21:10:56] https://calendar.google.com:443 "GET /calendar/ical/316bf667df8529794f3689a18a99793f1857804a21b4ff0ef1f0ed0d3bb1c6e1%40group.calendar.google.com/private-ff01565c6ef3ac16767df47e9809d181/basic.ics HTTP/1.1" 200 None
+[2023-02-05 21:22:35] Starting new HTTPS connection (1): calendar.google.com:443
+[2023-02-05 21:22:35] https://calendar.google.com:443 "GET /calendar/ical/316bf667df8529794f3689a18a99793f1857804a21b4ff0ef1f0ed0d3bb1c6e1%40group.calendar.google.com/private-ff01565c6ef3ac16767df47e9809d181/basic.ics HTTP/1.1" 200 None
