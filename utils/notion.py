@@ -178,7 +178,7 @@ class Notion():
                 'UID': {
                     "rich_text": NotionElement.texts(uid)
                 },
-                'Semester': NotionElement.semester(due)
+                'Semester': NotionElement.semester(due),
             },
             'children': [
                 {
@@ -222,9 +222,9 @@ class Notion():
         if page_id == "-1":
             # ! ERROR
             return "-1"
-
         # Properties
         page_url = f"https://api.notion.com/v1/pages/{page_id}"
+        """
         # Get old properties first, then compare
         resp = rs.get(page_url)
         if not resp.ok:
@@ -251,7 +251,18 @@ class Notion():
         new_page_data = {
             'properties': to_update_properties
         }
-
+        """
+        new_page_data = {
+            'properties': {
+                'Name': NotionElement.title(name),
+                'Due': NotionElement.date('-'.join([due[0:4], due[4:6], due[6:8]])),
+                'Last Modify': NotionElement.date(last_modify),
+                'UID': {
+                    "rich_text": NotionElement.texts(uid)
+                },
+                'Semester': NotionElement.semester(due),
+            },
+        }
         resp = rs.patch(page_url, json=new_page_data)
 
         # Blocks
