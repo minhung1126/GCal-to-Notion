@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import requests
 
 
@@ -61,6 +63,24 @@ class NotionElement():
             'type': 'date',
             'date': {
                 'start': date,
+            }
+        }
+
+    def semester(date: str) -> dict:
+        """Generate the semester info automatically for notion
+
+        Args:
+            date (str): the date, whether YYYY-MM-DD or isoformat
+
+        Returns:
+            dict: semester (select) structure
+        """
+        time = datetime.strptime(date, "%Y%m%dT%H%M%SZ")
+        semester = "2" if 2 <= time.month <= 7 else "1"
+        year = time.year-1911 if semester == "1" else time.year-1911-1
+        return {
+            "select": {
+                "name": f"{year}-{semester}"
             }
         }
 
@@ -158,6 +178,7 @@ class Notion():
                 'UID': {
                     "rich_text": NotionElement.texts(uid)
                 },
+                'Semester': NotionElement.semester(due)
             },
             'children': [
                 {
