@@ -70,12 +70,12 @@ class NotionElement():
         """Generate the semester info automatically for notion
 
         Args:
-            date (str): the date, whether YYYY-MM-DD or isoformat
+            date (str): the date, YYYYMMDD
 
         Returns:
             dict: semester (select) structure
         """
-        time = datetime.strptime(date, "%Y%m%dT%H%M%SZ")
+        time = datetime.strptime(date, "%Y%m%d")
         semester = "2" if 2 <= time.month <= 7 else "1"
         year = time.year-1911 if time.month >= 8 else time.year-1911-1
         return {
@@ -178,7 +178,7 @@ class Notion():
                 'UID': {
                     "rich_text": NotionElement.texts(uid)
                 },
-                'Semester': NotionElement.semester(due),
+                'Semester': NotionElement.semester(due[0:8]),
             },
             'children': [
                 {
