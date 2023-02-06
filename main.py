@@ -1,34 +1,24 @@
 import sys
 from datetime import datetime
-import logging
 
 from utils import gcal
 from utils.notion import Notion
 from utils.history import History
 
 
-def setup_logging():
-    logger = logging.getLogger()
-    logger.setLevel(logging.DEBUG)
-    logger.handlers.clear()
+def write_work_log(msg: str):
+    """Write work log
 
-    history_formatter = logging.Formatter(
-        '[%(asctime)s] %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S'
-    )
-
-    file_hdlr = logging.FileHandler(
-        'Worklog.txt', 'a', encoding='utf-8'
-    )
-    file_hdlr.setFormatter(history_formatter)
-    file_hdlr.setLevel(logging.DEBUG)
-    logger.addHandler(file_hdlr)
+    Args:
+        msg (str): work log
+    """
+    with open('Worklog.txt', 'a', encoding='utf-8') as f:
+        f.write(msg)
 
     return
 
 
 def main():
-    setup_logging()
     gcal_url, notion_token, notion_db_id = sys.argv[1:]
 
     global history, notion
@@ -56,7 +46,7 @@ def main():
                     'NotionPageID': notion_page_id,
                     'LastModify': event.last_modify,
                 })
-                logging.debug(f'Add: {event.uid} -> {notion_page_id}')
+                write_work_log(f'Add: {event.uid} -> {notion_page_id}')
         elif datetime.strptime(event.last_modify, "%Y%m%dT%H%M%SZ") > \
             datetime.strptime(
                 history.search_by_gcal_uid(event.uid).get('LastModify'),
@@ -72,7 +62,7 @@ def main():
                 'GCalUID': event.uid,
                 'LastModify': event.last_modify,
             })
-            logging.debug(f'Modify: {event.uid}')
+            write_work_log(f'Modify: {event.uid}')
 
     # Delete events that is deleted on gcal
     gcal_event_uids = set([
@@ -83,7 +73,7 @@ def main():
     for to_delete_uid in uids_in_history-gcal_event_uids:
         notion.delete_by_gcal_uid(to_delete_uid)
         history.delete_by_gcal_uid(to_delete_uid)
-        logging.debug(f'Delete: {to_delete_uid}')
+        write_work_log(f'Delete: {to_delete_uid}')
 
     return
 
