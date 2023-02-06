@@ -77,7 +77,7 @@ class NotionElement():
         """
         time = datetime.strptime(date, "%Y%m%dT%H%M%SZ")
         semester = "2" if 2 <= time.month <= 7 else "1"
-        year = time.year-1911 if semester == "1" else time.year-1911-1
+        year = time.year-1911 if time.month >= 8 else time.year-1911-1
         return {
             "select": {
                 "name": f"{year}-{semester}"
