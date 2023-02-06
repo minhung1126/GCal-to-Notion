@@ -17,6 +17,7 @@ Create, modify, selete supported.
 |Due|`Date`|
 |UID|`Text`|
 |Last Modify|`Date`|
+|Semester|`Select`|
 
 ### Google Calender
 
