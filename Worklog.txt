@@ -358,3 +358,10 @@
 [2023-02-06 06:46:18] https://api.notion.com:443 "PATCH /v1/pages/40d08ff9-b675-42aa-8ce6-a2cdd38472f6 HTTP/1.1" 200 None
 [2023-02-06 06:46:18] https://api.notion.com:443 "GET /v1/blocks/40d08ff9-b675-42aa-8ce6-a2cdd38472f6/children HTTP/1.1" 200 None
 [2023-02-06 06:46:18] Modify: 6er924oagff2833iqqc1pdidtu@google.com
+[2023-02-06 06:47:17] Starting new HTTPS connection (1): calendar.google.com:443
+[2023-02-06 06:47:17] https://calendar.google.com:443 "GET /calendar/ical/316bf667df8529794f3689a18a99793f1857804a21b4ff0ef1f0ed0d3bb1c6e1%40group.calendar.google.com/private-ff01565c6ef3ac16767df47e9809d181/basic.ics HTTP/1.1" 200 None
+[2023-02-06 06:47:17] Starting new HTTPS connection (1): api.notion.com:443
+[2023-02-06 06:47:17] https://api.notion.com:443 "POST /v1/databases/255636a02a544c689b2ca91893ec1c8e/query HTTP/1.1" 200 None
+[2023-02-06 06:47:18] https://api.notion.com:443 "PATCH /v1/pages/40d08ff9-b675-42aa-8ce6-a2cdd38472f6 HTTP/1.1" 200 None
+[2023-02-06 06:47:18] https://api.notion.com:443 "GET /v1/blocks/40d08ff9-b675-42aa-8ce6-a2cdd38472f6/children HTTP/1.1" 200 None
+[2023-02-06 06:47:18] Modify: 6er924oagff2833iqqc1pdidtu@google.com
