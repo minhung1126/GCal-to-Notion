@@ -12,8 +12,9 @@ def write_work_log(msg: str):
     Args:
         msg (str): work log
     """
+    now_time = datetime.now()
     with open('Worklog.txt', 'a', encoding='utf-8') as f:
-        f.write(msg)
+        f.write(f"[{now_time:%Y-%m-%d %H-%M-%S}]{msg}")
 
     return
 
@@ -46,7 +47,7 @@ def main():
                     'NotionPageID': notion_page_id,
                     'LastModify': event.last_modify,
                 })
-                write_work_log(f'Add: {event.uid} -> {notion_page_id}')
+                write_work_log(f'Add: {event.uid} -> {notion_page_id}\n')
         elif datetime.strptime(event.last_modify, "%Y%m%dT%H%M%SZ") > \
             datetime.strptime(
                 history.search_by_gcal_uid(event.uid).get('LastModify'),
@@ -62,7 +63,7 @@ def main():
                 'GCalUID': event.uid,
                 'LastModify': event.last_modify,
             })
-            write_work_log(f'Modify: {event.uid}')
+            write_work_log(f'Modify: {event.uid}\n')
 
     # Delete events that is deleted on gcal
     gcal_event_uids = set([
@@ -73,7 +74,7 @@ def main():
     for to_delete_uid in uids_in_history-gcal_event_uids:
         notion.delete_by_gcal_uid(to_delete_uid)
         history.delete_by_gcal_uid(to_delete_uid)
-        write_work_log(f'Delete: {to_delete_uid}')
+        write_work_log(f'Delete: {to_delete_uid}\n')
 
     return
 
