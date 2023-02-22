@@ -189,4 +189,26 @@
 [2023-02-22 10-26-17]Delete: 1edbba81mgusltm5fvu0r1ogb9@google.com
 [2023-02-22 10-26-17]Delete: q1vh5v7hng4uefm19677qlqeao@google.com
 [2023-02-22 10-29-39][]200
-[2023-02-22 10-36-29][]
+[2023-02-22 10-36-29][]200
+<!doctype html><html lang="en" dir="ltr"><head><base href="https://calendar.google.com/"><link rel="canonical" href="https://calendar.google.com/"><meta name="referrer" content="origin-when-cross-origin"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="https://workspace.google.com/lp/static/images/favicon.ico?fingerprint=913d48cd5d48ba34313131f246f99d6b"><title>Google Calendar - Easier Time Management, Appointments & Scheduling</title><meta name="description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."><meta name="twitter:card" content="summary"/><meta name="twitter:description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."/><meta name="twitter:title" content="Google Calendar - Easier Time Management, Appointments & Scheduling"/><meta name="twitter:image" content="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg"/><meta name="twitter:site" content="@googleworkspace"/><meta name="twitter:creator" content="@googleworkspace"/><meta property="og:url" content="https://calendar.google.com/"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Google Workspace"/><meta property="og:title" content="Google Calendar - Easier Time Management, Appointments & Scheduling"/><meta property="og:description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."/><meta property="og:image" content="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg"/></head><body style="height:100%;overflow:hidden;-webkit-font-smoothing:antialiased;color:rgba(0,0,0,0.87);font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:400;margin:0;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-size-adjust:100%;-webkit-user-select:none"><div class="root"><div style="padding:32px 64px"><img src="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg" alt="Google Calendar" style="border:none"></div><div style="color:#5f6368;font-size:20px;font-weight:500;padding-left:16px">Google Calendar - Easier Time Management, Appointments & Scheduling</div><div style="color:rgba(0,0,0,0.871);font-size:15px;padding:16px">Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between.</div><script type="application/ld+json" nonce="rrMP9hgmn4DMnhe6h3kUNA">
+{
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "brand": {"@type": "Organization", "name": "Google"},
+    "name": "Google Calendar",
+    "description":  "Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between.",
+    "url": "https://calendar.google.com/",
+    "logo": "https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg",
+    "isRelatedTo": {"@type": "Product", "name": "Google Workspace"},
+    "sameAs": [
+        "https://twitter.com/googleworkspace",
+        "https://cloud.googleblog.com/",
+        "https://www.youtube.com/googleworkspace/",
+        "https://www.facebook.com/googleworkspace/",
+        "https://en.wikipedia.org/wiki/Google_Calendar",
+        "https://en.wikipedia.org/wiki/Google_Workspace",
+        "https://www.wikidata.org/wiki/Q509284"
+    ]
+}
+</script></div></body></html>
+[2023-02-22 10-37-51][]
