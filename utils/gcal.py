@@ -62,6 +62,9 @@ def read_gcal(url: str) -> list[GCalEvent]:
         if not resp.ok:
             continue
 
+        if "<!doctype html>" in resp.text:
+            continue
+
         break
     else:
         raise GCalReadFail
