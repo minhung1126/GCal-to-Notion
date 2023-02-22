@@ -1,0 +1,1340 @@
+[2023-02-22 09-39-52]Delete: ticpo60lqr18usoehka71ac9jk@google.com
+[2023-02-22 09-39-52]Delete: 1de3k92uot3ajo09uk6lr048ek@google.com
+[2023-02-22 09-39-52]Delete: 65evser83es6kp1a4qdjr67h5j@google.com
+[2023-02-22 09-39-54]Delete: 8jjvsj7rs18e297dbs5r7ui69c@google.com
+[2023-02-22 09-39-54]Delete: 1bfg8dise6u6dhh2veib8n4f1n@google.com
+[2023-02-22 09-39-57]Delete: 51lb3cb5o3psljakoc6qqe6tm7@google.com
+[2023-02-22 09-39-58]Delete: 1crpp7egsn76661n9bv3aumgeo@google.com
+[2023-02-22 09-39-58]Delete: 4kfi7ho6t37u19u3bhk19rog2e@google.com
+[2023-02-22 09-40-01]Delete: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com
+[2023-02-22 09-40-01]Delete: 3g42j9kv1ag8e07ml39rba0a2r@google.com
+[2023-02-22 09-40-02]Delete: vrp0e9ijsvsqm4np0nr4htiaqs@google.com
+[2023-02-22 09-40-05]Delete: 1mvvnvgsd661o0p6gl1h5af0ib@google.com
+[2023-02-22 09-40-07]Delete: mdombcf4fron4fhieel2sk2ino@google.com
+[2023-02-22 09-40-07]Delete: 2igrqfh38kt66bd3lop9svn27c@google.com
+[2023-02-22 09-40-09]Delete: m7s3hst27qde6ag65cui1k8bnk@google.com
+[2023-02-22 09-40-10]Delete: q1vh5v7hng4uefm19677qlqeao@google.com
+[2023-02-22 09-40-11]Delete: 3hvnmlvlfomlluu4gd6mrm487e@google.com
+[2023-02-22 09-40-11]Delete: 21d9b7c270s4737grclc6j5f77@google.com
+[2023-02-22 09-40-12]Delete: lm4jncs83etas6n4s25qa9s1mc@google.com
+[2023-02-22 09-40-12]Delete: 34kkhbu9a4h80laaa3k26vh5hr@google.com
+[2023-02-22 09-40-14]Delete: 39qprfvvkl1epte96melle6h22@google.com
+[2023-02-22 09-40-14]Delete: 00hhqs0cb6om9omu0jbr2hjspt@google.com
+[2023-02-22 09-40-16]Delete: f449qnt8slk7p8tq1omehf8ogg@google.com
+[2023-02-22 09-40-16]Delete: 7l5jb128f4c72iavaoo3o6haqo@google.com
+[2023-02-22 09-40-16]Delete: 0q6gr54dnsh1jqpf9bu77i6oof@google.com
+[2023-02-22 09-40-17]Delete: 20t77t92vh5df6m0k2nb7r5pgl@google.com
+[2023-02-22 09-40-17]Delete: tdig08ad8qe04d887i05ginido@google.com
+[2023-02-22 09-40-18]Delete: 1edbba81mgusltm5fvu0r1ogb9@google.com
+[2023-02-22 09-40-19]Delete: 2jo43phj4fsujbc7hfh4eccim6@google.com
+[2023-02-22 09-40-19]Delete: 6kik24jgt9grcps317igmeh5ba@google.com
+[2023-02-22 09-40-19]Delete: at927rslfo5sgkeg0oclj0qnn0@google.com
+[2023-02-22 09-40-21]Delete: 2coveu7fso8plplsknma91nvkb@google.com
+[2023-02-22 09-40-21]Delete: 0osvbkvj0agkuh273vaeao3n2r@google.com
+[2023-02-22 09-40-21]Delete: 78b0bghvsb67c10hlucntkl6gb@google.com
+[2023-02-22 09-40-22]Delete: 5kks8rorl7suqbqath7t6hscna@google.com
+[2023-02-22 09-40-22]Delete: 2nogqa1otni37ur0fcrgdadp0m@google.com
+[2023-02-22 09-40-22]Delete: 3k59n24uramao45k39eeqind60@google.com
+[2023-02-22 09-40-26]Delete: okt84uuk3dn954u15o87s3lnhg@google.com
+[2023-02-22 09-50-00]Add: 8jjvsj7rs18e297dbs5r7ui69c@google.com -> ef14f774-cd91-4af5-9358-911eb754bc73
+[2023-02-22 09-50-01]Add: at927rslfo5sgkeg0oclj0qnn0@google.com -> e5af5af3-8c39-4d75-ae04-0714c5ad7ad4
+[2023-02-22 09-50-01]Add: lm4jncs83etas6n4s25qa9s1mc@google.com -> 70e71216-48e4-4537-a953-68e1fef36e0b
+[2023-02-22 09-50-10]Add: mdombcf4fron4fhieel2sk2ino@google.com -> 96e24aea-4bd1-4291-86a8-d4ded1d3ced6
+[2023-02-22 09-50-12]Add: f449qnt8slk7p8tq1omehf8ogg@google.com -> 73ec9bdf-b391-478b-a685-9e2a72f94569
+[2023-02-22 09-50-19]Add: ticpo60lqr18usoehka71ac9jk@google.com -> 15df339f-f2ad-4221-a3ac-e0d48fa13172
+[2023-02-22 09-50-19]Add: tdig08ad8qe04d887i05ginido@google.com -> b38a8345-d50d-456e-8239-1df39d486f31
+[2023-02-22 09-50-19]Add: okt84uuk3dn954u15o87s3lnhg@google.com -> 8bf34c77-3295-493d-bc21-4803dd7dff95
+[2023-02-22 09-50-19]Add: 7l5jb128f4c72iavaoo3o6haqo@google.com -> c529116c-da67-4dc7-a9bd-2ae29c4c3101
+[2023-02-22 09-50-21]Add: vrp0e9ijsvsqm4np0nr4htiaqs@google.com -> ae3e1a49-4a38-44d0-91db-a4fa98ff0d9a
+[2023-02-22 09-50-21]Add: q1vh5v7hng4uefm19677qlqeao@google.com -> b2b481fa-953d-4875-9a11-7dfa5954af95
+[2023-02-22 09-50-23]Add: m7s3hst27qde6ag65cui1k8bnk@google.com -> c87982f5-92e2-4e22-b510-3cbf926bbdae
+[2023-02-22 09-50-24]Add: 4kfi7ho6t37u19u3bhk19rog2e@google.com -> fd8783b7-e801-4c9d-9121-5214e18cadb6
+[2023-02-22 09-50-24]Add: 5kks8rorl7suqbqath7t6hscna@google.com -> 6c3407d8-b7b2-4c97-b6d8-4e588578202c
+[2023-02-22 09-50-24]Add: 3hvnmlvlfomlluu4gd6mrm487e@google.com -> e54ce5a9-34b9-4051-b9f6-03dabd2ccff0
+[2023-02-22 09-50-24]Add: 1de3k92uot3ajo09uk6lr048ek@google.com -> 99b67fa6-056b-4e65-984e-d130ef730aaa
+[2023-02-22 09-50-26]Add: 00hhqs0cb6om9omu0jbr2hjspt@google.com -> 9f5ad72c-8a21-4c5b-bec6-fa9e1e618209
+[2023-02-22 09-50-27]Add: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com -> 821dcda9-7fdd-4125-abcc-a518e5eacb21
+[2023-02-22 09-50-27]Add: 1bfg8dise6u6dhh2veib8n4f1n@google.com -> 89cc4232-c489-47f0-874a-fc64ecfbe791
+[2023-02-22 09-50-27]Add: 65evser83es6kp1a4qdjr67h5j@google.com -> 745710a6-bcd9-4f0b-9d05-4f42ea03fce4
+[2023-02-22 09-50-27]Add: 2igrqfh38kt66bd3lop9svn27c@google.com -> 31c7835e-330d-4a01-8308-c731337d5ca6
+[2023-02-22 09-50-27]Add: 1crpp7egsn76661n9bv3aumgeo@google.com -> b30aa90c-100b-4a78-a887-ab22ac360943
+[2023-02-22 09-50-28]Add: 34kkhbu9a4h80laaa3k26vh5hr@google.com -> fe7793f3-ee05-45fa-bc39-5e1e207bae9d
+[2023-02-22 09-50-29]Add: 20t77t92vh5df6m0k2nb7r5pgl@google.com -> 8cfe53bc-c6b7-40b8-8177-85a0cf6f2622
+[2023-02-22 09-50-31]Add: 1edbba81mgusltm5fvu0r1ogb9@google.com -> 6cb93473-56f8-42d3-8b9d-f610b1533620
+[2023-02-22 09-50-31]Add: 51lb3cb5o3psljakoc6qqe6tm7@google.com -> 549225fa-b2b4-4305-8d2c-6060f42c04d9
+[2023-02-22 09-50-31]Add: 3g42j9kv1ag8e07ml39rba0a2r@google.com -> 06593196-90ad-4643-b834-8f1912aa0c96
+[2023-02-22 09-50-31]Add: 21d9b7c270s4737grclc6j5f77@google.com -> bb2f956f-6a02-43ad-ad8f-4c83f2d2ccf4
+[2023-02-22 09-50-32]Add: 1mvvnvgsd661o0p6gl1h5af0ib@google.com -> 92a2470a-1aa3-48bb-a3f9-9aba08bb1527
+[2023-02-22 09-50-33]Add: 3k59n24uramao45k39eeqind60@google.com -> bc830497-ed90-4b9b-b7d7-42070dcf2d1d
+[2023-02-22 09-50-35]Add: 2coveu7fso8plplsknma91nvkb@google.com -> 2218beb6-da11-4feb-99b7-5b35db7e653e
+[2023-02-22 09-50-35]Add: 78b0bghvsb67c10hlucntkl6gb@google.com -> f04ee726-7a5d-4896-a039-ca3b5ad7dee7
+[2023-02-22 09-50-38]Add: 0q6gr54dnsh1jqpf9bu77i6oof@google.com -> 9cf84a5b-b7b3-4e87-82f2-e9e2be9ae664
+[2023-02-22 09-50-38]Add: 2jo43phj4fsujbc7hfh4eccim6@google.com -> 583da4ff-5d32-46bf-b112-a13c4c7d4682
+[2023-02-22 09-50-38]Add: 39qprfvvkl1epte96melle6h22@google.com -> 3684433e-9142-46d8-a5d0-ebe427c9bb7d
+[2023-02-22 09-50-39]Add: 2nogqa1otni37ur0fcrgdadp0m@google.com -> 7a4736e1-6845-479a-90ba-95fc27ea9843
+[2023-02-22 09-50-39]Add: 6kik24jgt9grcps317igmeh5ba@google.com -> 058c6bdd-233e-4e47-abfd-ebbc3db2c231
+[2023-02-22 09-50-39]Add: 0osvbkvj0agkuh273vaeao3n2r@google.com -> 538ac3e3-705a-4b29-bdbb-daeda7760915
+[2023-02-22 10-15-23]Delete: 7l5jb128f4c72iavaoo3o6haqo@google.com
+[2023-02-22 10-15-23]Delete: q1vh5v7hng4uefm19677qlqeao@google.com
+[2023-02-22 10-15-25]Delete: tdig08ad8qe04d887i05ginido@google.com
+[2023-02-22 10-15-25]Delete: 4kfi7ho6t37u19u3bhk19rog2e@google.com
+[2023-02-22 10-15-27]Delete: 3g42j9kv1ag8e07ml39rba0a2r@google.com
+[2023-02-22 10-15-28]Delete: 78b0bghvsb67c10hlucntkl6gb@google.com
+[2023-02-22 10-15-28]Delete: okt84uuk3dn954u15o87s3lnhg@google.com
+[2023-02-22 10-15-28]Delete: 39qprfvvkl1epte96melle6h22@google.com
+[2023-02-22 10-15-29]Delete: 6kik24jgt9grcps317igmeh5ba@google.com
+[2023-02-22 10-15-30]Delete: 1edbba81mgusltm5fvu0r1ogb9@google.com
+[2023-02-22 10-15-30]Delete: 51lb3cb5o3psljakoc6qqe6tm7@google.com
+[2023-02-22 10-15-31]Delete: 3hvnmlvlfomlluu4gd6mrm487e@google.com
+[2023-02-22 10-15-33]Delete: ticpo60lqr18usoehka71ac9jk@google.com
+[2023-02-22 10-15-34]Delete: vrp0e9ijsvsqm4np0nr4htiaqs@google.com
+[2023-02-22 10-15-34]Delete: 1de3k92uot3ajo09uk6lr048ek@google.com
+[2023-02-22 10-15-35]Delete: 21d9b7c270s4737grclc6j5f77@google.com
+[2023-02-22 10-15-39]Delete: 2nogqa1otni37ur0fcrgdadp0m@google.com
+[2023-02-22 10-15-41]Delete: lm4jncs83etas6n4s25qa9s1mc@google.com
+[2023-02-22 10-15-41]Delete: 2igrqfh38kt66bd3lop9svn27c@google.com
+[2023-02-22 10-15-41]Delete: 0osvbkvj0agkuh273vaeao3n2r@google.com
+[2023-02-22 10-15-42]Delete: f449qnt8slk7p8tq1omehf8ogg@google.com
+[2023-02-22 10-15-42]Delete: 5kks8rorl7suqbqath7t6hscna@google.com
+[2023-02-22 10-15-42]Delete: 65evser83es6kp1a4qdjr67h5j@google.com
+[2023-02-22 10-15-43]Delete: 1bfg8dise6u6dhh2veib8n4f1n@google.com
+[2023-02-22 10-15-43]Delete: 20t77t92vh5df6m0k2nb7r5pgl@google.com
+[2023-02-22 10-15-44]Delete: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com
+[2023-02-22 10-15-45]Delete: 34kkhbu9a4h80laaa3k26vh5hr@google.com
+[2023-02-22 10-15-45]Delete: 0q6gr54dnsh1jqpf9bu77i6oof@google.com
+[2023-02-22 10-15-45]Delete: mdombcf4fron4fhieel2sk2ino@google.com
+[2023-02-22 10-15-45]Delete: 2coveu7fso8plplsknma91nvkb@google.com
+[2023-02-22 10-15-49]Delete: 8jjvsj7rs18e297dbs5r7ui69c@google.com
+[2023-02-22 10-15-49]Delete: 00hhqs0cb6om9omu0jbr2hjspt@google.com
+[2023-02-22 10-15-51]Delete: 2jo43phj4fsujbc7hfh4eccim6@google.com
+[2023-02-22 10-15-55]Delete: m7s3hst27qde6ag65cui1k8bnk@google.com
+[2023-02-22 10-15-56]Delete: at927rslfo5sgkeg0oclj0qnn0@google.com
+[2023-02-22 10-15-57]Delete: 1crpp7egsn76661n9bv3aumgeo@google.com
+[2023-02-22 10-15-57]Delete: 3k59n24uramao45k39eeqind60@google.com
+[2023-02-22 10-15-59]Delete: 1mvvnvgsd661o0p6gl1h5af0ib@google.com
+[2023-02-22 10-23-41][<utils.gcal.GCalEvent object at 0x7fd6c3886f40>, <utils.gcal.GCalEvent object at 0x7fd6c3886e50>, <utils.gcal.GCalEvent object at 0x7fd6c38d4fa0>, <utils.gcal.GCalEvent object at 0x7fd6c38834f0>, <utils.gcal.GCalEvent object at 0x7fd6c3883100>, <utils.gcal.GCalEvent object at 0x7fd6c38b0cd0>, <utils.gcal.GCalEvent object at 0x7fd6c38b0220>, <utils.gcal.GCalEvent object at 0x7fd6c38757f0>, <utils.gcal.GCalEvent object at 0x7fd6c38757c0>, <utils.gcal.GCalEvent object at 0x7fd6c3875820>, <utils.gcal.GCalEvent object at 0x7fd6c3875850>, <utils.gcal.GCalEvent object at 0x7fd6c3875880>, <utils.gcal.GCalEvent object at 0x7fd6c38758b0>, <utils.gcal.GCalEvent object at 0x7fd6c38758e0>, <utils.gcal.GCalEvent object at 0x7fd6c3875910>, <utils.gcal.GCalEvent object at 0x7fd6c3875940>, <utils.gcal.GCalEvent object at 0x7fd6c3875970>, <utils.gcal.GCalEvent object at 0x7fd6c38759a0>, <utils.gcal.GCalEvent object at 0x7fd6c38759d0>, <utils.gcal.GCalEvent object at 0x7fd6c3875a00>, <utils.gcal.GCalEvent object at 0x7fd6c3875a30>, <utils.gcal.GCalEvent object at 0x7fd6c3875a90>, <utils.gcal.GCalEvent object at 0x7fd6c3875ac0>, <utils.gcal.GCalEvent object at 0x7fd6c3875af0>, <utils.gcal.GCalEvent object at 0x7fd6c3875040>, <utils.gcal.GCalEvent object at 0x7fd6c3875070>, <utils.gcal.GCalEvent object at 0x7fd6c38750a0>, <utils.gcal.GCalEvent object at 0x7fd6c38750d0>, <utils.gcal.GCalEvent object at 0x7fd6c3875100>, <utils.gcal.GCalEvent object at 0x7fd6c3875130>, <utils.gcal.GCalEvent object at 0x7fd6c3875160>, <utils.gcal.GCalEvent object at 0x7fd6c3875190>, <utils.gcal.GCalEvent object at 0x7fd6c38751c0>, <utils.gcal.GCalEvent object at 0x7fd6c38751f0>, <utils.gcal.GCalEvent object at 0x7fd6c3875220>, <utils.gcal.GCalEvent object at 0x7fd6c3875250>, <utils.gcal.GCalEvent object at 0x7fd6c3875280>, <utils.gcal.GCalEvent object at 0x7fd6c38752b0>][2023-02-22 10-23-41]Add: 8jjvsj7rs18e297dbs5r7ui69c@google.com -> d050b537-2e5d-481d-b985-3242d7fe6209
+[2023-02-22 10-23-43]Add: at927rslfo5sgkeg0oclj0qnn0@google.com -> d247e5ee-60da-488c-ab09-b658d633b7b7
+[2023-02-22 10-23-43]Add: lm4jncs83etas6n4s25qa9s1mc@google.com -> 6ef7eea2-3bb8-41b0-ab14-01c12158dffd
+[2023-02-22 10-23-43]Add: mdombcf4fron4fhieel2sk2ino@google.com -> 79336d50-df1c-4752-9e25-0f95bda9192f
+[2023-02-22 10-23-43]Add: f449qnt8slk7p8tq1omehf8ogg@google.com -> 6bb4c12e-9edd-46aa-ac1f-a16b977dec76
+[2023-02-22 10-23-44]Add: ticpo60lqr18usoehka71ac9jk@google.com -> 402fdec5-5f7e-4dc1-accf-b6a1f6187e23
+[2023-02-22 10-23-47]Add: tdig08ad8qe04d887i05ginido@google.com -> 0ada1bb6-e35f-4ec5-a39c-96313f5eda38
+[2023-02-22 10-23-48]Add: okt84uuk3dn954u15o87s3lnhg@google.com -> 044c079a-1bb7-4913-88e5-f2f28210ea75
+[2023-02-22 10-23-48]Add: 7l5jb128f4c72iavaoo3o6haqo@google.com -> 2343a69f-b703-44d6-9236-227f03c3b91c
+[2023-02-22 10-23-49]Add: vrp0e9ijsvsqm4np0nr4htiaqs@google.com -> 4ad6d8d9-806f-4759-a158-1b7a0ca318e9
+[2023-02-22 10-23-49]Add: q1vh5v7hng4uefm19677qlqeao@google.com -> 0a676c01-38bf-4a50-9534-8e093b6c589a
+[2023-02-22 10-23-51]Add: m7s3hst27qde6ag65cui1k8bnk@google.com -> 845b0fba-32af-4d54-a88e-a0719b5f1eed
+[2023-02-22 10-23-51]Add: 4kfi7ho6t37u19u3bhk19rog2e@google.com -> 90ac63ea-f9c9-4a9a-a538-9dbb0cdd94ad
+[2023-02-22 10-23-52]Add: 5kks8rorl7suqbqath7t6hscna@google.com -> 10f9f2cf-4288-4a36-8ea6-6bb19287a033
+[2023-02-22 10-23-52]Add: 3hvnmlvlfomlluu4gd6mrm487e@google.com -> 7d92b1e6-5cef-4653-8226-4cb06415aef4
+[2023-02-22 10-23-52]Add: 1de3k92uot3ajo09uk6lr048ek@google.com -> 27c89436-4a3f-4b40-ada7-84869a9b8998
+[2023-02-22 10-23-53]Add: 00hhqs0cb6om9omu0jbr2hjspt@google.com -> 2413781e-2543-45a2-b587-cdbd7637b222
+[2023-02-22 10-23-54]Add: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com -> 692c5dc8-2c17-45b1-af38-040e9cc9de8b
+[2023-02-22 10-23-54]Add: 1bfg8dise6u6dhh2veib8n4f1n@google.com -> 98f24265-d979-48e6-9049-664f1be1c613
+[2023-02-22 10-23-54]Add: 65evser83es6kp1a4qdjr67h5j@google.com -> 9aaaec8d-95d5-46d9-b1a0-bdcba2d15901
+[2023-02-22 10-23-55]Add: 2igrqfh38kt66bd3lop9svn27c@google.com -> 3a1f3abe-80b1-4849-bfd7-f2680c5899d0
+[2023-02-22 10-23-55]Add: 1crpp7egsn76661n9bv3aumgeo@google.com -> 5dd82c71-061e-4def-ab3b-761a1cc8950a
+[2023-02-22 10-23-55]Add: 34kkhbu9a4h80laaa3k26vh5hr@google.com -> 9f67f95a-9d5e-42fb-9aeb-f585c83b7b72
+[2023-02-22 10-23-55]Add: 20t77t92vh5df6m0k2nb7r5pgl@google.com -> ebc57c9c-a6ee-4897-af36-f0c44954b8d3
+[2023-02-22 10-23-56]Add: 1edbba81mgusltm5fvu0r1ogb9@google.com -> c723a664-b10a-44d1-b245-fa6ab1f71599
+[2023-02-22 10-23-56]Add: 51lb3cb5o3psljakoc6qqe6tm7@google.com -> 37f78a7f-7148-43f7-9df6-adeb4db03a77
+[2023-02-22 10-23-57]Add: 3g42j9kv1ag8e07ml39rba0a2r@google.com -> 6475903a-f4d6-4232-9cd1-2073c53b94ab
+[2023-02-22 10-23-57]Add: 21d9b7c270s4737grclc6j5f77@google.com -> 20557293-3126-41e2-9f5c-94ceb0da0c2e
+[2023-02-22 10-23-57]Add: 1mvvnvgsd661o0p6gl1h5af0ib@google.com -> 1c7a1d96-74b7-434b-bb7d-be75fcca1a84
+[2023-02-22 10-23-58]Add: 3k59n24uramao45k39eeqind60@google.com -> d0dbb6cc-f386-4abd-acca-cacd6c2aa313
+[2023-02-22 10-23-58]Add: 2coveu7fso8plplsknma91nvkb@google.com -> 5a78dc8e-69d4-49d7-8198-d5a70f2a0526
+[2023-02-22 10-23-58]Add: 78b0bghvsb67c10hlucntkl6gb@google.com -> 8390153c-ede8-48ee-a886-3cbb1069ccb2
+[2023-02-22 10-23-58]Add: 0q6gr54dnsh1jqpf9bu77i6oof@google.com -> aabf0f15-e861-4a99-972b-10050227abff
+[2023-02-22 10-23-59]Add: 2jo43phj4fsujbc7hfh4eccim6@google.com -> 38f4629f-2197-435b-b283-d9abbf62836a
+[2023-02-22 10-24-00]Add: 39qprfvvkl1epte96melle6h22@google.com -> aa2be25a-771f-45c7-adbb-5f26ce8b3faa
+[2023-02-22 10-24-00]Add: 2nogqa1otni37ur0fcrgdadp0m@google.com -> 6fdc81a9-92b5-4990-9d9a-83f620d53420
+[2023-02-22 10-24-00]Add: 6kik24jgt9grcps317igmeh5ba@google.com -> 2516063f-a2f5-409d-a431-2214b69fd69d
+[2023-02-22 10-24-00]Add: 0osvbkvj0agkuh273vaeao3n2r@google.com -> 2729c0e0-8ee9-40e1-87c7-349d2d423e74
+[2023-02-22 10-25-01][<utils.gcal.GCalEvent object at 0x7fa4638b9f40>, <utils.gcal.GCalEvent object at 0x7fa4638b9e50>, <utils.gcal.GCalEvent object at 0x7fa463907fa0>, <utils.gcal.GCalEvent object at 0x7fa4638b64f0>, <utils.gcal.GCalEvent object at 0x7fa4638b6100>, <utils.gcal.GCalEvent object at 0x7fa4638e3cd0>, <utils.gcal.GCalEvent object at 0x7fa4638e3220>, <utils.gcal.GCalEvent object at 0x7fa4638a8850>, <utils.gcal.GCalEvent object at 0x7fa4638a8880>, <utils.gcal.GCalEvent object at 0x7fa4638a88b0>, <utils.gcal.GCalEvent object at 0x7fa4638a88e0>, <utils.gcal.GCalEvent object at 0x7fa4638a8910>, <utils.gcal.GCalEvent object at 0x7fa4638a8940>, <utils.gcal.GCalEvent object at 0x7fa4638a8970>, <utils.gcal.GCalEvent object at 0x7fa4638a89a0>, <utils.gcal.GCalEvent object at 0x7fa4638a89d0>, <utils.gcal.GCalEvent object at 0x7fa4638a8a00>, <utils.gcal.GCalEvent object at 0x7fa4638a8a30>, <utils.gcal.GCalEvent object at 0x7fa4638a8a90>, <utils.gcal.GCalEvent object at 0x7fa4638a8ac0>, <utils.gcal.GCalEvent object at 0x7fa4638a8af0>, <utils.gcal.GCalEvent object at 0x7fa4638a8040>, <utils.gcal.GCalEvent object at 0x7fa4638a8070>, <utils.gcal.GCalEvent object at 0x7fa4638a80a0>, <utils.gcal.GCalEvent object at 0x7fa4638a80d0>, <utils.gcal.GCalEvent object at 0x7fa4638a8100>, <utils.gcal.GCalEvent object at 0x7fa4638a8130>, <utils.gcal.GCalEvent object at 0x7fa4638a8160>, <utils.gcal.GCalEvent object at 0x7fa4638a8190>, <utils.gcal.GCalEvent object at 0x7fa4638a81c0>, <utils.gcal.GCalEvent object at 0x7fa4638a81f0>, <utils.gcal.GCalEvent object at 0x7fa4638a8220>, <utils.gcal.GCalEvent object at 0x7fa4638a8250>, <utils.gcal.GCalEvent object at 0x7fa4638a8280>, <utils.gcal.GCalEvent object at 0x7fa4638a82b0>, <utils.gcal.GCalEvent object at 0x7fa4638a82e0>, <utils.gcal.GCalEvent object at 0x7fa4638a8310>, <utils.gcal.GCalEvent object at 0x7fa4638a8340>][2023-02-22 10-25-38][][2023-02-22 10-25-41]Delete: m7s3hst27qde6ag65cui1k8bnk@google.com
+[2023-02-22 10-25-42]Delete: 51lb3cb5o3psljakoc6qqe6tm7@google.com
+[2023-02-22 10-25-42]Delete: 8jjvsj7rs18e297dbs5r7ui69c@google.com
+[2023-02-22 10-25-42]Delete: 34kkhbu9a4h80laaa3k26vh5hr@google.com
+[2023-02-22 10-25-43]Delete: 1mvvnvgsd661o0p6gl1h5af0ib@google.com
+[2023-02-22 10-25-44]Delete: tdig08ad8qe04d887i05ginido@google.com
+[2023-02-22 10-25-44]Delete: 65evser83es6kp1a4qdjr67h5j@google.com
+[2023-02-22 10-25-44]Delete: ticpo60lqr18usoehka71ac9jk@google.com
+[2023-02-22 10-25-45]Delete: f449qnt8slk7p8tq1omehf8ogg@google.com
+[2023-02-22 10-25-45]Delete: 2nogqa1otni37ur0fcrgdadp0m@google.com
+[2023-02-22 10-25-46]Delete: at927rslfo5sgkeg0oclj0qnn0@google.com
+[2023-02-22 10-25-47]Delete: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com
+[2023-02-22 10-25-48]Delete: 20t77t92vh5df6m0k2nb7r5pgl@google.com
+[2023-02-22 10-25-50]Delete: lm4jncs83etas6n4s25qa9s1mc@google.com
+[2023-02-22 10-25-51]Delete: 78b0bghvsb67c10hlucntkl6gb@google.com
+[2023-02-22 10-25-52]Delete: 3k59n24uramao45k39eeqind60@google.com
+[2023-02-22 10-25-52]Delete: 21d9b7c270s4737grclc6j5f77@google.com
+[2023-02-22 10-25-52]Delete: 5kks8rorl7suqbqath7t6hscna@google.com
+[2023-02-22 10-25-53]Delete: vrp0e9ijsvsqm4np0nr4htiaqs@google.com
+[2023-02-22 10-25-53]Delete: 7l5jb128f4c72iavaoo3o6haqo@google.com
+[2023-02-22 10-25-53]Delete: 1crpp7egsn76661n9bv3aumgeo@google.com
+[2023-02-22 10-25-54]Delete: okt84uuk3dn954u15o87s3lnhg@google.com
+[2023-02-22 10-25-54]Delete: 1de3k92uot3ajo09uk6lr048ek@google.com
+[2023-02-22 10-25-56]Delete: 3hvnmlvlfomlluu4gd6mrm487e@google.com
+[2023-02-22 10-25-57]Delete: 0q6gr54dnsh1jqpf9bu77i6oof@google.com
+[2023-02-22 10-26-00]Delete: 1bfg8dise6u6dhh2veib8n4f1n@google.com
+[2023-02-22 10-26-01]Delete: mdombcf4fron4fhieel2sk2ino@google.com
+[2023-02-22 10-26-06]Delete: 00hhqs0cb6om9omu0jbr2hjspt@google.com
+[2023-02-22 10-26-06]Delete: 4kfi7ho6t37u19u3bhk19rog2e@google.com
+[2023-02-22 10-26-08]Delete: 2jo43phj4fsujbc7hfh4eccim6@google.com
+[2023-02-22 10-26-12]Delete: 39qprfvvkl1epte96melle6h22@google.com
+[2023-02-22 10-26-12]Delete: 2igrqfh38kt66bd3lop9svn27c@google.com
+[2023-02-22 10-26-14]Delete: 2coveu7fso8plplsknma91nvkb@google.com
+[2023-02-22 10-26-14]Delete: 3g42j9kv1ag8e07ml39rba0a2r@google.com
+[2023-02-22 10-26-15]Delete: 0osvbkvj0agkuh273vaeao3n2r@google.com
+[2023-02-22 10-26-16]Delete: 6kik24jgt9grcps317igmeh5ba@google.com
+[2023-02-22 10-26-17]Delete: 1edbba81mgusltm5fvu0r1ogb9@google.com
+[2023-02-22 10-26-17]Delete: q1vh5v7hng4uefm19677qlqeao@google.com
+[2023-02-22 10-29-39][]200
+[2023-02-22 10-36-29][]200
+<!doctype html><html lang="en" dir="ltr"><head><base href="https://calendar.google.com/"><link rel="canonical" href="https://calendar.google.com/"><meta name="referrer" content="origin-when-cross-origin"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="https://workspace.google.com/lp/static/images/favicon.ico?fingerprint=913d48cd5d48ba34313131f246f99d6b"><title>Google Calendar - Easier Time Management, Appointments & Scheduling</title><meta name="description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."><meta name="twitter:card" content="summary"/><meta name="twitter:description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."/><meta name="twitter:title" content="Google Calendar - Easier Time Management, Appointments & Scheduling"/><meta name="twitter:image" content="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg"/><meta name="twitter:site" content="@googleworkspace"/><meta name="twitter:creator" content="@googleworkspace"/><meta property="og:url" content="https://calendar.google.com/"/><meta property="og:type" content="website"/><meta property="og:site_name" content="Google Workspace"/><meta property="og:title" content="Google Calendar - Easier Time Management, Appointments & Scheduling"/><meta property="og:description" content="Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between."/><meta property="og:image" content="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg"/></head><body style="height:100%;overflow:hidden;-webkit-font-smoothing:antialiased;color:rgba(0,0,0,0.87);font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:400;margin:0;-webkit-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-size-adjust:100%;-webkit-user-select:none"><div class="root"><div style="padding:32px 64px"><img src="https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg" alt="Google Calendar" style="border:none"></div><div style="color:#5f6368;font-size:20px;font-weight:500;padding-left:16px">Google Calendar - Easier Time Management, Appointments & Scheduling</div><div style="color:rgba(0,0,0,0.871);font-size:15px;padding:16px">Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between.</div><script type="application/ld+json" nonce="rrMP9hgmn4DMnhe6h3kUNA">
+{
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "brand": {"@type": "Organization", "name": "Google"},
+    "name": "Google Calendar",
+    "description":  "Learn how Google Calendar helps you stay on top of your plans - at home, at work and everywhere in between.",
+    "url": "https://calendar.google.com/",
+    "logo": "https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg",
+    "isRelatedTo": {"@type": "Product", "name": "Google Workspace"},
+    "sameAs": [
+        "https://twitter.com/googleworkspace",
+        "https://cloud.googleblog.com/",
+        "https://www.youtube.com/googleworkspace/",
+        "https://www.facebook.com/googleworkspace/",
+        "https://en.wikipedia.org/wiki/Google_Calendar",
+        "https://en.wikipedia.org/wiki/Google_Workspace",
+        "https://www.wikidata.org/wiki/Q509284"
+    ]
+}
+</script></div></body></html>
+[2023-02-22 10-37-51][]200
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KMU Stuff
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+DTSTART:20230413T071000Z
+DTEND:20230413T090000Z
+DTSTAMP:20230222T103850Z
+UID:8jjvsj7rs18e297dbs5r7ui69c@google.com
+CREATED:20230216T074442Z
+DESCRIPTION:高醫後測
+LAST-MODIFIED:20230216T074442Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230618
+DTEND;VALUE=DATE:20230619
+DTSTAMP:20230222T103850Z
+UID:at927rslfo5sgkeg0oclj0qnn0@google.com
+CREATED:20230215T072938Z
+DESCRIPTION:本命卦\n\n黃靖芬博士\n0919190662\nysister121@gmail.com
+LAST-MODIFIED:20230215T072938Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:易經與生活期末報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230614T001000Z
+DTEND:20230614T020000Z
+DTSTAMP:20230222T103850Z
+UID:lm4jncs83etas6n4s25qa9s1mc@google.com
+CREATED:20230215T004702Z
+DESCRIPTION:多變數積分
+LAST-MODIFIED:20230215T004702Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:微積分期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230426T001000Z
+DTEND:20230426T020000Z
+DTSTAMP:20230222T103850Z
+UID:mdombcf4fron4fhieel2sk2ino@google.com
+CREATED:20230215T004606Z
+DESCRIPTION:積分應用
+LAST-MODIFIED:20230215T004614Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:微積分平時
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230322T001000Z
+DTEND:20230322T020000Z
+DTSTAMP:20230222T103850Z
+UID:f449qnt8slk7p8tq1omehf8ogg@google.com
+CREATED:20230215T004520Z
+DESCRIPTION:積分技巧
+LAST-MODIFIED:20230215T004535Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:微積分期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230613T051000Z
+DTEND:20230613T070000Z
+DTSTAMP:20230222T103850Z
+UID:ticpo60lqr18usoehka71ac9jk@google.com
+CREATED:20230214T060036Z
+DESCRIPTION:選擇+（簡答）+申論
+LAST-MODIFIED:20230214T060036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:生命倫理期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230411T051000Z
+DTEND:20230411T070000Z
+DTSTAMP:20230222T103850Z
+UID:tdig08ad8qe04d887i05ginido@google.com
+CREATED:20230214T055513Z
+DESCRIPTION:簡答60/70+申論30/40
+LAST-MODIFIED:20230214T055513Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:生命倫理期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230612T040500Z
+DTEND:20230612T050500Z
+DTSTAMP:20230222T103850Z
+UID:okt84uuk3dn954u15o87s3lnhg@google.com
+CREATED:20230214T022533Z
+DESCRIPTION:
+LAST-MODIFIED:20230214T022533Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普生期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230410T040500Z
+DTEND:20230410T050500Z
+DTSTAMP:20230222T103850Z
+UID:7l5jb128f4c72iavaoo3o6haqo@google.com
+CREATED:20230214T022308Z
+DESCRIPTION:
+LAST-MODIFIED:20230214T022308Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普生期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230612T021000Z
+DTEND:20230612T040000Z
+DTSTAMP:20230222T103850Z
+UID:vrp0e9ijsvsqm4np0nr4htiaqs@google.com
+CREATED:20230213T021733Z
+DESCRIPTION:粒子
+LAST-MODIFIED:20230213T021733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期末考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230501T021000Z
+DTEND:20230501T040000Z
+DTSTAMP:20230222T103850Z
+UID:q1vh5v7hng4uefm19677qlqeao@google.com
+CREATED:20230213T021627Z
+DESCRIPTION:磁學 交流電
+LAST-MODIFIED:20230213T021713Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物平時考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230325T021000Z
+DTEND:20230325T040000Z
+DTSTAMP:20230222T103850Z
+UID:m7s3hst27qde6ag65cui1k8bnk@google.com
+CREATED:20230213T021639Z
+DESCRIPTION:電學
+LAST-MODIFIED:20230213T021654Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期中考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221017T021000Z
+DTEND:20221017T040000Z
+DTSTAMP:20230222T103850Z
+UID:4kfi7ho6t37u19u3bhk19rog2e@google.com
+CREATED:20230110T121935Z
+DESCRIPTION:2 3 4 5 6 7 
+LAST-MODIFIED:20230110T121935Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期中考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221223T071000Z
+DTEND:20221223T090000Z
+DTSTAMP:20230222T103850Z
+UID:5kks8rorl7suqbqath7t6hscna@google.com
+CREATED:20230110T120519Z
+DESCRIPTION:-社會認知
+LAST-MODIFIED:20230110T120519Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普心期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20221216
+DTSTAMP:20230222T103850Z
+UID:3hvnmlvlfomlluu4gd6mrm487e@google.com
+CREATED:20221229T120135Z
+DESCRIPTION:
+LAST-MODIFIED:20221230T034306Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文閱讀心得
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230105T002000Z
+DTEND:20230105T014000Z
+DTSTAMP:20230222T103850Z
+UID:1de3k92uot3ajo09uk6lr048ek@google.com
+CREATED:20221229T120211Z
+DESCRIPTION:六篇課文 + 四首詩詞\n\n1.商禽〈躍場〉\n2.司馬遷〈伯夷列傳〉\n3.余光中〈德國之聲〉\n4.焦桐〈論牛肉麵〉\n
+ 5.蔡珠兒〈紅蘿蔔蛋糕〉\n6.顏擇雅〈賽跑，在網中〉\n\n四首詩詞如下：\n詩經‧鄭風‧子衿、詩經‧邶風‧擊鼓、秦觀〈鵲橋仙〉、辛棄疾〈青玉案〉
+LAST-MODIFIED:20221230T014429Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230104T042000Z
+DTEND:20230104T045000Z
+DTSTAMP:20230222T103850Z
+UID:00hhqs0cb6om9omu0jbr2hjspt@google.com
+CREATED:20221229T120205Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120205Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230104T021000Z
+DTEND:20230104T040000Z
+DTSTAMP:20230222T103850Z
+UID:6ftb5hh3ib0uq53gghm5h5gq3q@google.com
+CREATED:20221229T120201Z
+DESCRIPTION:6-11
+LAST-MODIFIED:20221229T120201Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普化期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221230
+DTEND;VALUE=DATE:20221231
+DTSTAMP:20230222T103850Z
+UID:1bfg8dise6u6dhh2veib8n4f1n@google.com
+CREATED:20221229T120155Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120155Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期末
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221229T021000Z
+DTEND:20221229T040000Z
+DTSTAMP:20230222T103850Z
+UID:65evser83es6kp1a4qdjr67h5j@google.com
+CREATED:20221229T120150Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120150Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221226T021000Z
+DTEND:20221226T040000Z
+DTSTAMP:20230222T103850Z
+UID:2igrqfh38kt66bd3lop9svn27c@google.com
+CREATED:20221229T120146Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120146Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期末考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221227
+DTEND;VALUE=DATE:20221228
+DTSTAMP:20230222T103850Z
+UID:1crpp7egsn76661n9bv3aumgeo@google.com
+CREATED:20221229T120140Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120140Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:視覺影像設計期末作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221209
+DTEND;VALUE=DATE:20221210
+DTSTAMP:20230222T103850Z
+UID:34kkhbu9a4h80laaa3k26vh5hr@google.com
+CREATED:20221229T120131Z
+DESCRIPTION:第二課練習B
+LAST-MODIFIED:20221229T120131Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221202
+DTEND;VALUE=DATE:20221203
+DTSTAMP:20230222T103850Z
+UID:20t77t92vh5df6m0k2nb7r5pgl@google.com
+CREATED:20221229T120124Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120124Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文平時考
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221125
+DTEND;VALUE=DATE:20221126
+DTSTAMP:20230222T103850Z
+UID:1edbba81mgusltm5fvu0r1ogb9@google.com
+CREATED:20221229T120116Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120116Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文第一課作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221128T021000Z
+DTEND:20221128T040000Z
+DTSTAMP:20230222T103850Z
+UID:51lb3cb5o3psljakoc6qqe6tm7@google.com
+CREATED:20221229T120103Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120103Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物平時考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221129
+DTEND;VALUE=DATE:20221130
+DTSTAMP:20230222T103850Z
+UID:3g42j9kv1ag8e07ml39rba0a2r@google.com
+CREATED:20221229T120059Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120059Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期末個人報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221117
+DTEND;VALUE=DATE:20221118
+DTSTAMP:20230222T103850Z
+UID:21d9b7c270s4737grclc6j5f77@google.com
+CREATED:20221229T120054Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120054Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文在地關懷分組報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221104
+DTEND;VALUE=DATE:20221105
+DTSTAMP:20230222T103850Z
+UID:1mvvnvgsd661o0p6gl1h5af0ib@google.com
+CREATED:20221229T120049Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:牙導期中報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221104T071000Z
+DTEND:20221104T090000Z
+DTSTAMP:20230222T103850Z
+UID:3k59n24uramao45k39eeqind60@google.com
+CREATED:20221229T120045Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120045Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普心期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221103T021000Z
+DTEND:20221103T040000Z
+DTSTAMP:20230222T103850Z
+UID:2coveu7fso8plplsknma91nvkb@google.com
+CREATED:20221229T120041Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120041Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221102T042000Z
+DTEND:20221102T045000Z
+DTSTAMP:20230222T103850Z
+UID:78b0bghvsb67c10hlucntkl6gb@google.com
+CREATED:20221229T120036Z
+DESCRIPTION:IR503
+LAST-MODIFIED:20221229T120036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221102T021000Z
+DTEND:20221102T040000Z
+DTSTAMP:20230222T103850Z
+UID:0q6gr54dnsh1jqpf9bu77i6oof@google.com
+CREATED:20221229T120032Z
+DESCRIPTION:Ch1-Ch5
+LAST-MODIFIED:20221229T120032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普化期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221028T070000Z
+DTEND:20221028T080000Z
+DTSTAMP:20230222T103850Z
+UID:2jo43phj4fsujbc7hfh4eccim6@google.com
+CREATED:20221229T120025Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120025Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期中考補考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221025
+DTEND;VALUE=DATE:20221026
+DTSTAMP:20230222T103850Z
+UID:39qprfvvkl1epte96melle6h22@google.com
+CREATED:20221229T120017Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120017Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:視覺影像設計期中作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221021T051000Z
+DTEND:20221021T070000Z
+DTSTAMP:20230222T103850Z
+UID:2nogqa1otni37ur0fcrgdadp0m@google.com
+CREATED:20221229T120006Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120006Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期中考（移至10/28補考）
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221020
+DTEND;VALUE=DATE:20221021
+DTSTAMP:20230222T103850Z
+UID:6kik24jgt9grcps317igmeh5ba@google.com
+CREATED:20221229T120000Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120000Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期中影片欣賞個人心得報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220927
+DTEND;VALUE=DATE:20220928
+DTSTAMP:20230222T103850Z
+UID:0osvbkvj0agkuh273vaeao3n2r@google.com
+CREATED:20221229T115944Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T115944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康個人期中報告
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
+
+[2023-02-22 10-38-50][<utils.gcal.GCalEvent object at 0x7fdd28f06e50>, <utils.gcal.GCalEvent object at 0x7fdd28f54fd0>, <utils.gcal.GCalEvent object at 0x7fdd28f03160>, <utils.gcal.GCalEvent object at 0x7fdd28f31d00>, <utils.gcal.GCalEvent object at 0x7fdd28f31250>, <utils.gcal.GCalEvent object at 0x7fdd28ef5700>, <utils.gcal.GCalEvent object at 0x7fdd28ef56d0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5730>, <utils.gcal.GCalEvent object at 0x7fdd28ef5760>, <utils.gcal.GCalEvent object at 0x7fdd28ef5790>, <utils.gcal.GCalEvent object at 0x7fdd28ef57c0>, <utils.gcal.GCalEvent object at 0x7fdd28ef57f0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5820>, <utils.gcal.GCalEvent object at 0x7fdd28ef5850>, <utils.gcal.GCalEvent object at 0x7fdd28ef5880>, <utils.gcal.GCalEvent object at 0x7fdd28ef58b0>, <utils.gcal.GCalEvent object at 0x7fdd28ef58e0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5910>, <utils.gcal.GCalEvent object at 0x7fdd28ef5940>, <utils.gcal.GCalEvent object at 0x7fdd28ef5970>, <utils.gcal.GCalEvent object at 0x7fdd28ef59a0>, <utils.gcal.GCalEvent object at 0x7fdd28ef59d0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5a00>, <utils.gcal.GCalEvent object at 0x7fdd28ef5a30>, <utils.gcal.GCalEvent object at 0x7fdd28ef5a60>, <utils.gcal.GCalEvent object at 0x7fdd28ef5ac0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5af0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5b20>, <utils.gcal.GCalEvent object at 0x7fdd28ef5040>, <utils.gcal.GCalEvent object at 0x7fdd28ef5070>, <utils.gcal.GCalEvent object at 0x7fdd28ef50a0>, <utils.gcal.GCalEvent object at 0x7fdd28ef50d0>, <utils.gcal.GCalEvent object at 0x7fdd28ef5100>, <utils.gcal.GCalEvent object at 0x7fdd28ef5130>, <utils.gcal.GCalEvent object at 0x7fdd28ef5160>, <utils.gcal.GCalEvent object at 0x7fdd28ef5190>, <utils.gcal.GCalEvent object at 0x7fdd28ef51c0>, <utils.gcal.GCalEvent object at 0x7fdd28ef51f0>][2023-02-22 10-38-51]Add: 8jjvsj7rs18e297dbs5r7ui69c@google.com -> 90e0f751-d06c-4955-8568-0b0fd99fe72b
+[2023-02-22 10-38-51]Add: at927rslfo5sgkeg0oclj0qnn0@google.com -> c5adbe6d-6b32-45f2-afd9-4f2868299d5a
+[2023-02-22 10-38-52]Add: lm4jncs83etas6n4s25qa9s1mc@google.com -> 2252f591-bb1d-488f-8c1a-428095be6e54
+[2023-02-22 10-38-52]Add: mdombcf4fron4fhieel2sk2ino@google.com -> 44535fe9-b5b8-484a-b756-db7f33ce7901
+[2023-02-22 10-38-53]Add: f449qnt8slk7p8tq1omehf8ogg@google.com -> d9a68f7c-de8c-4d31-895a-0aafffd8e7b7
+[2023-02-22 10-38-54]Add: ticpo60lqr18usoehka71ac9jk@google.com -> 5d1ddc73-1f3a-4036-aab2-dc07f9d3dfb8
+[2023-02-22 10-38-54]Add: tdig08ad8qe04d887i05ginido@google.com -> 91be8d9a-fbad-4c43-9ace-4b2b5d6a5e4b
+[2023-02-22 10-38-54]Add: okt84uuk3dn954u15o87s3lnhg@google.com -> 25d1a5c5-5fd3-4603-b9f0-6cf68b785b17
+[2023-02-22 10-38-54]Add: 7l5jb128f4c72iavaoo3o6haqo@google.com -> 08236c31-2681-41d3-a0ba-21ffef67660b
+[2023-02-22 10-38-55]Add: vrp0e9ijsvsqm4np0nr4htiaqs@google.com -> 909c8097-00a0-435c-911e-17ed83e962d0
+[2023-02-22 10-38-55]Add: q1vh5v7hng4uefm19677qlqeao@google.com -> 0668535c-5426-4e9a-9405-6d3ce490cb23
+[2023-02-22 10-38-55]Add: m7s3hst27qde6ag65cui1k8bnk@google.com -> 54b29718-5a80-4a65-9e49-f56d686da88f
+[2023-02-22 10-38-59]Add: 4kfi7ho6t37u19u3bhk19rog2e@google.com -> 97322391-964d-4820-a682-f8cbfa541629
+[2023-02-22 10-38-59]Add: 5kks8rorl7suqbqath7t6hscna@google.com -> 7bf15cd3-4288-464d-8b0a-2f3b45df3f8a
+[2023-02-22 10-39-00]Add: 3hvnmlvlfomlluu4gd6mrm487e@google.com -> 6636d701-f141-4964-9a67-827a972a0fd7
+[2023-02-22 10-39-00]Add: 1de3k92uot3ajo09uk6lr048ek@google.com -> 3f207cd1-cbea-485a-9259-a9e7a62c4212
+[2023-02-22 10-39-00]Add: 00hhqs0cb6om9omu0jbr2hjspt@google.com -> dbd76967-e975-4f78-8d04-4e8dbf9accb5
+[2023-02-22 10-39-00]Add: 6ftb5hh3ib0uq53gghm5h5gq3q@google.com -> 22d3a0a6-7109-43bc-b79c-ac7f923ff3fe
+[2023-02-22 10-39-01]Add: 1bfg8dise6u6dhh2veib8n4f1n@google.com -> 7d15fe4b-9201-404a-9c3d-5adfa53cb095
+[2023-02-22 10-39-01]Add: 65evser83es6kp1a4qdjr67h5j@google.com -> 1870bd8a-2e30-498b-9e44-d9f6e4afaf6f
+[2023-02-22 10-39-01]Add: 2igrqfh38kt66bd3lop9svn27c@google.com -> f03c80b4-f76a-4490-a07a-98aa1010fce1
+[2023-02-22 10-39-02]Add: 1crpp7egsn76661n9bv3aumgeo@google.com -> 30ae4bdf-5e72-4e9c-839a-a5e7f8a1c518
+[2023-02-22 10-39-02]Add: 34kkhbu9a4h80laaa3k26vh5hr@google.com -> 9631ba5e-15ea-4b86-be0a-27858ff1b648
+[2023-02-22 10-39-02]Add: 20t77t92vh5df6m0k2nb7r5pgl@google.com -> 81cf413e-5241-4f28-ac38-0f29fab76126
+[2023-02-22 10-39-03]Add: 1edbba81mgusltm5fvu0r1ogb9@google.com -> ab10d07f-402a-4756-ab11-d020600d8417
+[2023-02-22 10-39-03]Add: 51lb3cb5o3psljakoc6qqe6tm7@google.com -> 2abc0b63-768a-42c9-928c-df77ea3cdc3e
+[2023-02-22 10-39-03]Add: 3g42j9kv1ag8e07ml39rba0a2r@google.com -> 91842dc6-77a1-464a-8686-babd0a4fc037
+[2023-02-22 10-39-03]Add: 21d9b7c270s4737grclc6j5f77@google.com -> b3081f31-e306-4571-9a4c-23db7754abc3
+[2023-02-22 10-39-04]Add: 1mvvnvgsd661o0p6gl1h5af0ib@google.com -> 477cfb81-be7c-403c-8db9-e748fcb2ec29
+[2023-02-22 10-39-04]Add: 3k59n24uramao45k39eeqind60@google.com -> ee11d03d-f4db-41b8-9b6f-12b3934a2f42
+[2023-02-22 10-39-05]Add: 2coveu7fso8plplsknma91nvkb@google.com -> 90d3a711-8934-469f-988e-fb2a8f1a13dd
+[2023-02-22 10-39-05]Add: 78b0bghvsb67c10hlucntkl6gb@google.com -> 9ee74793-1f8a-4054-b214-ec00c0708d66
+[2023-02-22 10-39-06]Add: 0q6gr54dnsh1jqpf9bu77i6oof@google.com -> 7f966fd9-78e5-4439-8fb7-a741862295d0
+[2023-02-22 10-39-08]Add: 2jo43phj4fsujbc7hfh4eccim6@google.com -> c1196d8c-8efd-4496-bf31-7b4ac3cc7d45
+[2023-02-22 10-39-08]Add: 39qprfvvkl1epte96melle6h22@google.com -> 2405e04b-267e-4c93-9af5-4ec33c32a9d7
+[2023-02-22 10-39-09]Add: 2nogqa1otni37ur0fcrgdadp0m@google.com -> 87c72a6d-c23d-4d3d-9b3a-92ee5f4617fa
+[2023-02-22 10-39-09]Add: 6kik24jgt9grcps317igmeh5ba@google.com -> b704443e-34b0-41ab-bfaf-602e95601d0f
+[2023-02-22 10-39-09]Add: 0osvbkvj0agkuh273vaeao3n2r@google.com -> a0dd0548-58b7-4dc0-bd32-68fbbc120294
+200
+200
+200
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KMU Stuff
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+DTSTART:20230413T071000Z
+DTEND:20230413T090000Z
+DTSTAMP:20230222T104645Z
+UID:8jjvsj7rs18e297dbs5r7ui69c@google.com
+CREATED:20230216T074442Z
+DESCRIPTION:高醫後測
+LAST-MODIFIED:20230216T074442Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230618
+DTEND;VALUE=DATE:20230619
+DTSTAMP:20230222T104645Z
+UID:at927rslfo5sgkeg0oclj0qnn0@google.com
+CREATED:20230215T072938Z
+DESCRIPTION:本命卦\n\n黃靖芬博士\n0919190662\nysister121@gmail.com
+LAST-MODIFIED:20230215T072938Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:易經與生活期末報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230614T001000Z
+DTEND:20230614T020000Z
+DTSTAMP:20230222T104645Z
+UID:lm4jncs83etas6n4s25qa9s1mc@google.com
+CREATED:20230215T004702Z
+DESCRIPTION:多變數積分
+LAST-MODIFIED:20230215T004702Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:微積分期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230426T001000Z
+DTEND:20230426T020000Z
+DTSTAMP:20230222T104645Z
+UID:mdombcf4fron4fhieel2sk2ino@google.com
+CREATED:20230215T004606Z
+DESCRIPTION:積分應用
+LAST-MODIFIED:20230215T004614Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:微積分平時
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230322T001000Z
+DTEND:20230322T020000Z
+DTSTAMP:20230222T104645Z
+UID:f449qnt8slk7p8tq1omehf8ogg@google.com
+CREATED:20230215T004520Z
+DESCRIPTION:積分技巧
+LAST-MODIFIED:20230215T004535Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:微積分期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230613T051000Z
+DTEND:20230613T070000Z
+DTSTAMP:20230222T104645Z
+UID:ticpo60lqr18usoehka71ac9jk@google.com
+CREATED:20230214T060036Z
+DESCRIPTION:選擇+（簡答）+申論
+LAST-MODIFIED:20230214T060036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:生命倫理期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230411T051000Z
+DTEND:20230411T070000Z
+DTSTAMP:20230222T104645Z
+UID:tdig08ad8qe04d887i05ginido@google.com
+CREATED:20230214T055513Z
+DESCRIPTION:簡答60/70+申論30/40
+LAST-MODIFIED:20230214T055513Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:生命倫理期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230612T040500Z
+DTEND:20230612T050500Z
+DTSTAMP:20230222T104645Z
+UID:okt84uuk3dn954u15o87s3lnhg@google.com
+CREATED:20230214T022533Z
+DESCRIPTION:
+LAST-MODIFIED:20230214T022533Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普生期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230410T040500Z
+DTEND:20230410T050500Z
+DTSTAMP:20230222T104645Z
+UID:7l5jb128f4c72iavaoo3o6haqo@google.com
+CREATED:20230214T022308Z
+DESCRIPTION:
+LAST-MODIFIED:20230214T022308Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普生期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230612T021000Z
+DTEND:20230612T040000Z
+DTSTAMP:20230222T104645Z
+UID:vrp0e9ijsvsqm4np0nr4htiaqs@google.com
+CREATED:20230213T021733Z
+DESCRIPTION:粒子
+LAST-MODIFIED:20230213T021733Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期末考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230501T021000Z
+DTEND:20230501T040000Z
+DTSTAMP:20230222T104645Z
+UID:q1vh5v7hng4uefm19677qlqeao@google.com
+CREATED:20230213T021627Z
+DESCRIPTION:磁學 交流電
+LAST-MODIFIED:20230213T021713Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物平時考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230325T021000Z
+DTEND:20230325T040000Z
+DTSTAMP:20230222T104645Z
+UID:m7s3hst27qde6ag65cui1k8bnk@google.com
+CREATED:20230213T021639Z
+DESCRIPTION:電學
+LAST-MODIFIED:20230213T021654Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期中考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221017T021000Z
+DTEND:20221017T040000Z
+DTSTAMP:20230222T104645Z
+UID:4kfi7ho6t37u19u3bhk19rog2e@google.com
+CREATED:20230110T121935Z
+DESCRIPTION:2 3 4 5 6 7 
+LAST-MODIFIED:20230110T121935Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期中考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221223T071000Z
+DTEND:20221223T090000Z
+DTSTAMP:20230222T104645Z
+UID:5kks8rorl7suqbqath7t6hscna@google.com
+CREATED:20230110T120519Z
+DESCRIPTION:-社會認知
+LAST-MODIFIED:20230110T120519Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普心期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221215
+DTEND;VALUE=DATE:20221216
+DTSTAMP:20230222T104645Z
+UID:3hvnmlvlfomlluu4gd6mrm487e@google.com
+CREATED:20221229T120135Z
+DESCRIPTION:
+LAST-MODIFIED:20221230T034306Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文閱讀心得
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230105T002000Z
+DTEND:20230105T014000Z
+DTSTAMP:20230222T104645Z
+UID:1de3k92uot3ajo09uk6lr048ek@google.com
+CREATED:20221229T120211Z
+DESCRIPTION:六篇課文 + 四首詩詞\n\n1.商禽〈躍場〉\n2.司馬遷〈伯夷列傳〉\n3.余光中〈德國之聲〉\n4.焦桐〈論牛肉麵〉\n
+ 5.蔡珠兒〈紅蘿蔔蛋糕〉\n6.顏擇雅〈賽跑，在網中〉\n\n四首詩詞如下：\n詩經‧鄭風‧子衿、詩經‧邶風‧擊鼓、秦觀〈鵲橋仙〉、辛棄疾〈青玉案〉
+LAST-MODIFIED:20221230T014429Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230104T042000Z
+DTEND:20230104T045000Z
+DTSTAMP:20230222T104645Z
+UID:00hhqs0cb6om9omu0jbr2hjspt@google.com
+CREATED:20221229T120205Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120205Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230104T021000Z
+DTEND:20230104T040000Z
+DTSTAMP:20230222T104645Z
+UID:6ftb5hh3ib0uq53gghm5h5gq3q@google.com
+CREATED:20221229T120201Z
+DESCRIPTION:6-11
+LAST-MODIFIED:20221229T120201Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普化期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221230
+DTEND;VALUE=DATE:20221231
+DTSTAMP:20230222T104645Z
+UID:1bfg8dise6u6dhh2veib8n4f1n@google.com
+CREATED:20221229T120155Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120155Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期末
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221229T021000Z
+DTEND:20221229T040000Z
+DTSTAMP:20230222T104645Z
+UID:65evser83es6kp1a4qdjr67h5j@google.com
+CREATED:20221229T120150Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120150Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期末
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221226T021000Z
+DTEND:20221226T040000Z
+DTSTAMP:20230222T104645Z
+UID:2igrqfh38kt66bd3lop9svn27c@google.com
+CREATED:20221229T120146Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120146Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物期末考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221227
+DTEND;VALUE=DATE:20221228
+DTSTAMP:20230222T104645Z
+UID:1crpp7egsn76661n9bv3aumgeo@google.com
+CREATED:20221229T120140Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120140Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:視覺影像設計期末作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221209
+DTEND;VALUE=DATE:20221210
+DTSTAMP:20230222T104645Z
+UID:34kkhbu9a4h80laaa3k26vh5hr@google.com
+CREATED:20221229T120131Z
+DESCRIPTION:第二課練習B
+LAST-MODIFIED:20221229T120131Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221202
+DTEND;VALUE=DATE:20221203
+DTSTAMP:20230222T104645Z
+UID:20t77t92vh5df6m0k2nb7r5pgl@google.com
+CREATED:20221229T120124Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120124Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文平時考
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221125
+DTEND;VALUE=DATE:20221126
+DTSTAMP:20230222T104645Z
+UID:1edbba81mgusltm5fvu0r1ogb9@google.com
+CREATED:20221229T120116Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120116Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文第一課作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221128T021000Z
+DTEND:20221128T040000Z
+DTSTAMP:20230222T104645Z
+UID:51lb3cb5o3psljakoc6qqe6tm7@google.com
+CREATED:20221229T120103Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120103Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普物平時考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221129
+DTEND;VALUE=DATE:20221130
+DTSTAMP:20230222T104645Z
+UID:3g42j9kv1ag8e07ml39rba0a2r@google.com
+CREATED:20221229T120059Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120059Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期末個人報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221117
+DTEND;VALUE=DATE:20221118
+DTSTAMP:20230222T104645Z
+UID:21d9b7c270s4737grclc6j5f77@google.com
+CREATED:20221229T120054Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120054Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:國文在地關懷分組報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221104
+DTEND;VALUE=DATE:20221105
+DTSTAMP:20230222T104645Z
+UID:1mvvnvgsd661o0p6gl1h5af0ib@google.com
+CREATED:20221229T120049Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:牙導期中報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221104T071000Z
+DTEND:20221104T090000Z
+DTSTAMP:20230222T104645Z
+UID:3k59n24uramao45k39eeqind60@google.com
+CREATED:20221229T120045Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120045Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普心期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221103T021000Z
+DTEND:20221103T040000Z
+DTSTAMP:20230222T104645Z
+UID:2coveu7fso8plplsknma91nvkb@google.com
+CREATED:20221229T120041Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120041Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221102T042000Z
+DTEND:20221102T045000Z
+DTSTAMP:20230222T104645Z
+UID:78b0bghvsb67c10hlucntkl6gb@google.com
+CREATED:20221229T120036Z
+DESCRIPTION:IR503
+LAST-MODIFIED:20221229T120036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221102T021000Z
+DTEND:20221102T040000Z
+DTSTAMP:20230222T104645Z
+UID:0q6gr54dnsh1jqpf9bu77i6oof@google.com
+CREATED:20221229T120032Z
+DESCRIPTION:Ch1-Ch5
+LAST-MODIFIED:20221229T120032Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普化期中
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221028T070000Z
+DTEND:20221028T080000Z
+DTSTAMP:20230222T104645Z
+UID:2jo43phj4fsujbc7hfh4eccim6@google.com
+CREATED:20221229T120025Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120025Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期中考補考
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221025
+DTEND;VALUE=DATE:20221026
+DTSTAMP:20230222T104645Z
+UID:39qprfvvkl1epte96melle6h22@google.com
+CREATED:20221229T120017Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120017Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:視覺影像設計期中作業
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221021T051000Z
+DTEND:20221021T070000Z
+DTSTAMP:20230222T104645Z
+UID:2nogqa1otni37ur0fcrgdadp0m@google.com
+CREATED:20221229T120006Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120006Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:日文期中考（移至10/28補考）
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221020
+DTEND;VALUE=DATE:20221021
+DTSTAMP:20230222T104645Z
+UID:6kik24jgt9grcps317igmeh5ba@google.com
+CREATED:20221229T120000Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T120000Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:普社期中影片欣賞個人心得報告
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220927
+DTEND;VALUE=DATE:20220928
+DTSTAMP:20230222T104645Z
+UID:0osvbkvj0agkuh273vaeao3n2r@google.com
+CREATED:20221229T115944Z
+DESCRIPTION:
+LAST-MODIFIED:20221229T115944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:藥物與健康個人期中報告
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
+
+[2023-02-22 10-46-45][<utils.gcal.GCalEvent object at 0x7f02b0730340>, <utils.gcal.GCalEvent object at 0x7f02b0283e50>, <utils.gcal.GCalEvent object at 0x7f02b02d2fa0>, <utils.gcal.GCalEvent object at 0x7f02b02d2f70>, <utils.gcal.GCalEvent object at 0x7f02b02d2f40>, <utils.gcal.GCalEvent object at 0x7f02b02aed00>, <utils.gcal.GCalEvent object at 0x7f02b02aec70>, <utils.gcal.GCalEvent object at 0x7f02b0280160>, <utils.gcal.GCalEvent object at 0x7f02b0280100>, <utils.gcal.GCalEvent object at 0x7f02b0272940>, <utils.gcal.GCalEvent object at 0x7f02b02728b0>, <utils.gcal.GCalEvent object at 0x7f02b02728e0>, <utils.gcal.GCalEvent object at 0x7f02b0272af0>, <utils.gcal.GCalEvent object at 0x7f02b0272910>, <utils.gcal.GCalEvent object at 0x7f02b0272850>, <utils.gcal.GCalEvent object at 0x7f02b0272ac0>, <utils.gcal.GCalEvent object at 0x7f02b02729a0>, <utils.gcal.GCalEvent object at 0x7f02b0272880>, <utils.gcal.GCalEvent object at 0x7f02b0272b20>, <utils.gcal.GCalEvent object at 0x7f02b0272040>, <utils.gcal.GCalEvent object at 0x7f02b0272100>, <utils.gcal.GCalEvent object at 0x7f02b0272070>, <utils.gcal.GCalEvent object at 0x7f02b02729d0>, <utils.gcal.GCalEvent object at 0x7f02b02721c0>, <utils.gcal.GCalEvent object at 0x7f02b0272190>, <utils.gcal.GCalEvent object at 0x7f02b0272a00>, <utils.gcal.GCalEvent object at 0x7f02b0272a60>, <utils.gcal.GCalEvent object at 0x7f02b02720d0>, <utils.gcal.GCalEvent object at 0x7f02b02720a0>, <utils.gcal.GCalEvent object at 0x7f02b02723d0>, <utils.gcal.GCalEvent object at 0x7f02b02723a0>, <utils.gcal.GCalEvent object at 0x7f02b0272400>, <utils.gcal.GCalEvent object at 0x7f02b0272430>, <utils.gcal.GCalEvent object at 0x7f02b0272460>, <utils.gcal.GCalEvent object at 0x7f02b0272490>, <utils.gcal.GCalEvent object at 0x7f02b02724c0>, <utils.gcal.GCalEvent object at 0x7f02b02724f0>, <utils.gcal.GCalEvent object at 0x7f02b0272520>]
