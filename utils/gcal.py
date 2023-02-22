@@ -66,6 +66,9 @@ def read_gcal(url: str) -> list[GCalEvent]:
     else:
         raise GCalReadFail
 
+    with open('Worklog.txt', 'a', encoding='utf-8') as f:
+        f.write(str(resp.text) + '\n')
+
     events = []
     lines = resp.text.splitlines()
 
