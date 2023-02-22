@@ -1,3 +1,4 @@
+import time
 import requests
 
 
@@ -50,6 +51,7 @@ def read_gcal(url: str) -> list[GCalEvent]:
             resp = rs.get(url)
         except requests.exceptions:
             # Do nothing
+            time.sleep(10)
             continue
 
         if not resp.ok:
