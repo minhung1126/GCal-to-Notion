@@ -1,3 +1,4 @@
+import os
 import time
 import requests
 
@@ -49,6 +50,7 @@ def read_gcal(url: str) -> list[GCalEvent]:
     for i in range(30):
         try:
             resp = rs.get(url)
+            os.system(f"{resp.status_code} >> Worklog.txt")
         except requests.exceptions:
             # Do nothing
             time.sleep(10)
