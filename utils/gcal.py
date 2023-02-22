@@ -50,12 +50,8 @@ def read_gcal(url: str) -> list[GCalEvent]:
     for i in range(30):
         try:
             resp = rs.get(url)
-            with open('Worklog.txt', 'a', encoding='utf-8') as f:
-                f.write(str(resp.status_code) + '\n')
         except requests.RequestException:
             # Do nothing
-            with open('Worklog.txt', 'a', encoding='utf-8') as f:
-                f.write('requests.exceptions' + '\n')
             time.sleep(10)
             continue
 
