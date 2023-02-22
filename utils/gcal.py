@@ -51,7 +51,7 @@ def read_gcal(url: str) -> list[GCalEvent]:
         try:
             resp = rs.get(url)
             with open('Worklog.txt', 'a', encoding='utf-8') as f:
-                f.write(resp.status_code + '\n')
+                f.write(str(resp.status_code) + '\n')
         except requests.RequestException:
             # Do nothing
             with open('Worklog.txt', 'a', encoding='utf-8') as f:
