@@ -31,6 +31,7 @@ def main():
     except gcal.GCalReadFail:
         write_work_log("Fail to read gcal log")
         return
+    write_work_log(events)
 
     # Add or Modify
     for event in events:
