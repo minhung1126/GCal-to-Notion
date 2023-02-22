@@ -28,6 +28,10 @@ class GCalEvent():
         return f"{self.name}({self.uid})"
 
 
+class GCalReadFail(Exception):
+    """Fail to read gcal"""
+
+
 def read_gcal(url: str) -> list[GCalEvent]:
     """Get all events from GCal.
     Requests the url first, then parse to generate info dict.
@@ -41,10 +45,19 @@ def read_gcal(url: str) -> list[GCalEvent]:
     """
     rs = requests.Session()
 
-    resp = rs.get(url)
-    if not resp.ok:
-        # ! warning
-        ...
+    for i in range(30):
+        try:
+            resp = rs.get(url)
+        except requests.exceptions:
+            # Do nothing
+            continue
+
+        if not resp.ok:
+            continue
+
+        break
+    else:
+        raise GCalReadFail
 
     events = []
     lines = resp.text.splitlines()

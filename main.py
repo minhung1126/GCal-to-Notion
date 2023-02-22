@@ -26,7 +26,11 @@ def main():
     history = History()
     notion = Notion(notion_token, notion_db_id)
 
-    events = gcal.read_gcal(gcal_url)
+    try:
+        events = gcal.read_gcal(gcal_url)
+    except gcal.GCalReadFail:
+        write_work_log("Fail to read gcal log")
+        return
 
     # Add or Modify
     for event in events:
