@@ -260,7 +260,7 @@ class Notion():
                 'UID': {
                     "rich_text": NotionElement.texts(uid)
                 },
-                'Semester': NotionElement.semester(due),
+                'Semester': NotionElement.semester(due[0:8]),
             },
         }
         resp = rs.patch(page_url, json=new_page_data)
