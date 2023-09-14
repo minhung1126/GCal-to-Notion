@@ -24,7 +24,7 @@ class GCalEvent():
         self.name: str = info.get('SUMMARY')
         self.due: str = info.get('DTSTART')
         self.last_modify: str = info.get('LAST-MODIFIED')
-        self.description: str = info.get('DESCRIPTION')
+        self.description: str = info.get('DESCRIPTION', '')
 
     def __str__(self):
         return f"{self.name}({self.uid})"
